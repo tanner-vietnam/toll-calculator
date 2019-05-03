@@ -1,0 +1,5743 @@
+[
+    {
+        "Description": "\u0110\u01b0\u1eddng Nguy\u1ec5n Du, Trung \u0110\u00f4, Vinh, Ngh\u1ec7 An",
+        "Exclusive": [],
+        "Fee": [
+            40,
+            55,
+            75,
+            120,
+            180
+        ],
+        "Highway": [],
+        "HighwayFee": {},
+        "ID": 2,
+        "KM": "KM467+100",
+        "Lat": 18.648612,
+        "Lng": 105.704526,
+        "MonthlyFee": [
+            1200,
+            1650,
+            2250,
+            3600,
+            5400
+        ],
+        "Name": "Tr\u1ea1m thu ph\u00ed B\u1ebfn Th\u1ee7y",
+        "Province": "Ngh\u1ec7 An",
+        "QuarterlyFee": [
+            3240,
+            4455,
+            6075,
+            9720,
+            14580
+        ],
+        "Road": "",
+        "Tolerance": 30.0
+    },
+    {
+        "Description": "Xu\u00e2n An, Nghi Xu\u00e2n, H\u00e0 T\u0129nh",
+        "Exclusive": [],
+        "Fee": [
+            40,
+            55,
+            75,
+            120,
+            180
+        ],
+        "Highway": [],
+        "HighwayFee": {},
+        "ID": 3,
+        "KM": "",
+        "Lat": 18.640947,
+        "Lng": 105.699023,
+        "MonthlyFee": [
+            1200,
+            1650,
+            2250,
+            3600,
+            5400
+        ],
+        "Name": "Tr\u1ea1m thu ph\u00ed B\u1ebfn Th\u1ee7y II",
+        "Province": "H\u00e0 T\u0129nh",
+        "QuarterlyFee": [
+            3240,
+            4455,
+            6075,
+            9720,
+            14580
+        ],
+        "Road": "QL1A",
+        "Tolerance": 30.0
+    },
+    {
+        "Description": "C\u1ea9m Trung, C\u1ea9m Xuy\u00ean, H\u00e0 T\u0129nh",
+        "Exclusive": [],
+        "Fee": [
+            20,
+            30,
+            44,
+            80,
+            160
+        ],
+        "Highway": [],
+        "HighwayFee": {},
+        "ID": 4,
+        "KM": "KM539+100",
+        "Lat": 18.211866,
+        "Lng": 106.10975,
+        "MonthlyFee": [
+            600,
+            900,
+            1300,
+            2400,
+            4800
+        ],
+        "Name": "Tr\u1ea1m thu ph\u00ed C\u1ea7u R\u00e1c ",
+        "Province": "H\u00e0 T\u0129nh",
+        "QuarterlyFee": [
+            1600,
+            2400,
+            3600,
+            6400,
+            13000
+        ],
+        "Road": "QL1A",
+        "Tolerance": 30.0
+    },
+    {
+        "Description": "Vo\u0303 Ninh, Qu\u1ea3ng Ninh, Qu\u1ea3ng B\u00ecnh",
+        "Exclusive": [],
+        "Fee": [
+            35,
+            50,
+            75,
+            120,
+            180
+        ],
+        "Highway": [],
+        "HighwayFee": {},
+        "ID": 6,
+        "KM": "KM672+472",
+        "Lat": 17.391871,
+        "Lng": 106.646937,
+        "MonthlyFee": [
+            1050,
+            1500,
+            2250,
+            3600,
+            5400
+        ],
+        "Name": "Tr\u1ea1m thu ph\u00ed Qu\u00e1n H\u00e0u",
+        "Province": "Qu\u1ea3ng B\u00ecnh",
+        "QuarterlyFee": [
+            2835,
+            4050,
+            6075,
+            9720,
+            14580
+        ],
+        "Road": "QL1A",
+        "Tolerance": 30.0
+    },
+    {
+        "Description": "Qu\u1ea3ng Ph\u00fa, Qu\u1ea3ng Tr\u1ea1ch, Qu\u1ea3ng B\u00ecnh",
+        "Exclusive": [],
+        "Fee": [
+            35,
+            50,
+            75,
+            120,
+            180
+        ],
+        "Highway": [],
+        "HighwayFee": {},
+        "ID": 7,
+        "KM": "KM604+700",
+        "Lat": 17.890154,
+        "Lng": 106.45094,
+        "MonthlyFee": [
+            1050,
+            1500,
+            2250,
+            3600,
+            5400
+        ],
+        "Name": "Tr\u1ea1m thu ph\u00ed TASCO Qu\u1ea3ng B\u00ecnh",
+        "Province": "Qu\u1ea3ng B\u00ecnh",
+        "QuarterlyFee": [
+            2835,
+            4050,
+            6075,
+            9720,
+            14580
+        ],
+        "Road": "QL1A",
+        "Tolerance": 30.0
+    },
+    {
+        "Description": "Tri\u1ec7u Giang, Tx. Qu\u1ea3ng Tr\u1ecb, Qu\u1ea3ng Tr\u1ecb",
+        "Exclusive": [],
+        "Fee": [
+            35,
+            50,
+            75,
+            120,
+            180
+        ],
+        "Highway": [],
+        "HighwayFee": {},
+        "ID": 8,
+        "KM": "KM763+800",
+        "Lat": 16.785265,
+        "Lng": 107.150047,
+        "MonthlyFee": [
+            1050,
+            1500,
+            2250,
+            3600,
+            5400
+        ],
+        "Name": "Tr\u1ea1m thu ph\u00ed \u0110\u00f4ng H\u00e0 - Qu\u1ea3ng Tr\u1ecb",
+        "Province": "Qu\u1ea3ng Tr\u1ecb",
+        "QuarterlyFee": [
+            2835,
+            4050,
+            6075,
+            9720,
+            14580
+        ],
+        "Road": "QL1A",
+        "Tolerance": 30.0
+    },
+    {
+        "Description": "\u0110i\u1ec7n Th\u1eafng B\u1eafc, \u0110i\u1ec7n B\u00e0n, Qu\u1ea3ng Nam",
+        "Exclusive": [],
+        "Fee": [
+            35,
+            50,
+            75,
+            120,
+            180
+        ],
+        "Highway": [],
+        "HighwayFee": {},
+        "ID": 9,
+        "KM": "KM943+975",
+        "Lat": 15.930564,
+        "Lng": 108.228688,
+        "MonthlyFee": [
+            1050,
+            1500,
+            2250,
+            3600,
+            5400
+        ],
+        "Name": "Tr\u1ea1m thu ph\u00ed \u0110i\u1ec7n B\u00e0n (H\u00f2a Ph\u01b0\u1edbc)",
+        "Province": "Qu\u1ea3ng Nam",
+        "QuarterlyFee": [
+            2835,
+            4050,
+            6075,
+            9720,
+            14580
+        ],
+        "Road": "QL1A",
+        "Tolerance": 30.0
+    },
+    {
+        "Description": "Tam Xu\u00e2n 1, N\u00fai Th\u00e0nh, Qu\u1ea3ng Nam",
+        "Exclusive": [],
+        "Fee": [
+            35,
+            50,
+            75,
+            120,
+            180
+        ],
+        "Highway": [],
+        "HighwayFee": {},
+        "ID": 10,
+        "KM": "",
+        "Lat": 15.548552,
+        "Lng": 108.518435,
+        "MonthlyFee": [
+            1050,
+            1500,
+            2250,
+            3600,
+            5400
+        ],
+        "Name": "Tr\u1ea1m thu ph\u00ed Tam K\u1ef3",
+        "Province": "Qu\u1ea3ng Nam",
+        "QuarterlyFee": [
+            2835,
+            4050,
+            6075,
+            9720,
+            14580
+        ],
+        "Road": "QL1A",
+        "Tolerance": 30.0
+    },
+    {
+        "Description": "L\u0103ng C\u00f4, Ph\u00fa L\u1ed9c, Th\u1eeba Thi\u00ean Hu\u1ebf ",
+        "Exclusive": [],
+        "Fee": [
+            35,
+            50,
+            75,
+            120,
+            180
+        ],
+        "Highway": [],
+        "HighwayFee": {},
+        "ID": 11,
+        "KM": "",
+        "Lat": 16.228576,
+        "Lng": 108.084672,
+        "MonthlyFee": [
+            1050,
+            1500,
+            2250,
+            3600,
+            5400
+        ],
+        "Name": "Tr\u1ea1m thu ph\u00ed B\u1eafc H\u1ea3i V\u00e2n",
+        "Province": "Th\u1eeba Thi\u00ean Hu\u1ebf",
+        "QuarterlyFee": [
+            2835,
+            4050,
+            6075,
+            9720,
+            14580
+        ],
+        "Road": "QL1A",
+        "Tolerance": 30.0
+    },
+    {
+        "Description": "Ninh l\u1ed9c, Tx. Ninh H\u00f2a, Kh\u00e1nh H\u00f2a",
+        "Exclusive": [],
+        "Fee": [
+            35,
+            50,
+            75,
+            140,
+            200
+        ],
+        "Highway": [],
+        "HighwayFee": {},
+        "ID": 13,
+        "KM": "KM1425+200",
+        "Lat": 12.444298,
+        "Lng": 109.120547,
+        "MonthlyFee": [
+            1050,
+            1500,
+            2250,
+            4200,
+            6000
+        ],
+        "Name": "Tr\u1ea1m thu ph\u00ed Ninh An ",
+        "Province": "Kh\u00e1nh H\u00f2a",
+        "QuarterlyFee": [
+            2835,
+            4050,
+            6075,
+            11340,
+            16200
+        ],
+        "Road": "QL1A",
+        "Tolerance": 30.0
+    },
+    {
+        "Description": "Th\u00f4n L\u1ea1c S\u01a1n 1, X\u00e3 C\u00e0 N\u00e1, Huy\u1ec7n Thu\u1eadn Nam, T\u1ec9nh Ninh Thu\u1eadn, Ph\u01b0\u1edbc Di\u00eam, Ninh Ph\u01b0\u1edbc, Ninh Thu\u1eadn",
+        "Exclusive": [],
+        "Fee": [
+            35,
+            50,
+            75,
+            120,
+            180
+        ],
+        "Highway": [],
+        "HighwayFee": {},
+        "ID": 14,
+        "KM": "Km1584+100",
+        "Lat": 11.373583,
+        "Lng": 108.881139,
+        "MonthlyFee": [
+            1050,
+            1500,
+            2250,
+            3600,
+            5400
+        ],
+        "Name": "Tr\u1ea1m thu ph\u00ed L\u1ea1c S\u01a1n - C\u00e0 N\u00e1",
+        "Province": "Ninh Thu\u1eadn",
+        "QuarterlyFee": [
+            2835,
+            4050,
+            6075,
+            9720,
+            14580
+        ],
+        "Road": "QL1A",
+        "Tolerance": 30.0
+    },
+    {
+        "Description": "H\u00e0m C\u01b0\u1eddng, H\u00e0m Thu\u1eadn Nam, B\u00ecnh Thu\u1eadn",
+        "Exclusive": [],
+        "Fee": [
+            35,
+            50,
+            75,
+            140,
+            200
+        ],
+        "Highway": [],
+        "HighwayFee": {},
+        "ID": 15,
+        "KM": "KM1661+60",
+        "Lat": 10.875284,
+        "Lng": 107.931406,
+        "MonthlyFee": [
+            1050,
+            1500,
+            2250,
+            4200,
+            6000
+        ],
+        "Name": "Tr\u1ea1m thu ph\u00ed S\u00f4ng Phan",
+        "Province": "B\u00ecnh Thu\u1eadn",
+        "QuarterlyFee": [
+            2850,
+            4050,
+            6050,
+            11350,
+            16200
+        ],
+        "Road": "QL1A",
+        "Tolerance": 30.0
+    },
+    {
+        "Description": "Cam H\u00f2a, Tr\u1ea3ng Bom, \u0110\u1ed3ng Nai",
+        "Exclusive": [],
+        "Fee": [
+            35,
+            50,
+            75,
+            120,
+            180
+        ],
+        "Highway": [],
+        "HighwayFee": {},
+        "ID": 16,
+        "KM": "",
+        "Lat": 10.945423,
+        "Lng": 107.057445,
+        "MonthlyFee": [
+            1050,
+            1500,
+            2250,
+            3600,
+            5400
+        ],
+        "Name": "Tr\u1ea1m thu ph\u00ed Tr\u1ea3ng Bom",
+        "Province": "\u0110\u1ed3ng Nai",
+        "QuarterlyFee": [
+            2835,
+            4050,
+            6075,
+            9720,
+            14580
+        ],
+        "Road": "QL1A",
+        "Tolerance": 30.0
+    },
+    {
+        "Description": "Qu\u1ef3nh Thi\u1ec7n, Tx. Ho\u00e0ng Mai, Ngh\u1ec7 An",
+        "Exclusive": [],
+        "Fee": [
+            35,
+            50,
+            75,
+            120,
+            180
+        ],
+        "Highway": [],
+        "HighwayFee": {},
+        "ID": 17,
+        "KM": "KM383+600",
+        "Lat": 19.301919,
+        "Lng": 105.72415,
+        "MonthlyFee": [
+            1050,
+            1500,
+            2250,
+            3600,
+            5400
+        ],
+        "Name": "Tr\u1ea1m thu ph\u00ed Ho\u00e0ng Mai",
+        "Province": "Ngh\u1ec7 An",
+        "QuarterlyFee": [
+            2835,
+            4050,
+            6075,
+            9720,
+            14580
+        ],
+        "Road": "QL1A",
+        "Tolerance": 30.0
+    },
+    {
+        "Description": "Ph\u00fa S\u01a1n, T\u00e2n Ph\u00fa, \u0110\u1ed3ng Nai",
+        "Exclusive": [],
+        "Fee": [
+            20,
+            30,
+            44,
+            80,
+            160
+        ],
+        "Highway": [],
+        "HighwayFee": {},
+        "ID": 19,
+        "KM": "KM74+760",
+        "Lat": 11.359575,
+        "Lng": 107.524697,
+        "MonthlyFee": [
+            600,
+            900,
+            1320,
+            2400,
+            4800
+        ],
+        "Name": "Tr\u1ea1m thu ph\u00ed T\u00e2n Ph\u00fa",
+        "Province": "\u0110\u1ed3ng Nai",
+        "QuarterlyFee": [
+            1600,
+            2400,
+            3600,
+            6480,
+            12960
+        ],
+        "Road": "QL20",
+        "Tolerance": 30.0
+    },
+    {
+        "Description": "Tam Ph\u01b0\u1edbc, Tp. Bi\u00ean H\u00f2a, \u0110\u1ed3ng Nai",
+        "Exclusive": [
+            21
+        ],
+        "Fee": [
+            20,
+            30,
+            44,
+            80,
+            160
+        ],
+        "Highway": [],
+        "HighwayFee": {},
+        "ID": 20,
+        "KM": "",
+        "Lat": 10.860657,
+        "Lng": 106.925418,
+        "MonthlyFee": [
+            600,
+            900,
+            1320,
+            2400,
+            4800
+        ],
+        "Name": "Tr\u1ea1m thu ph\u00ed QL51 - T1",
+        "Province": "\u0110\u1ed3ng Nai",
+        "QuarterlyFee": [
+            1600,
+            2400,
+            3600,
+            6400,
+            13000
+        ],
+        "Road": "QL51",
+        "Tolerance": 30.0
+    },
+    {
+        "Description": "Long Ph\u01b0\u1edbc, Long Th\u00e0nh, \u0110\u1ed3ng Nai",
+        "Exclusive": [
+            20,
+            22
+        ],
+        "Fee": [
+            20,
+            30,
+            44,
+            80,
+            160
+        ],
+        "Highway": [],
+        "HighwayFee": {},
+        "ID": 21,
+        "KM": "",
+        "Lat": 10.724084,
+        "Lng": 106.996902,
+        "MonthlyFee": [
+            600,
+            900,
+            1320,
+            2400,
+            4800
+        ],
+        "Name": "Tr\u1ea1m thu ph\u00ed QL51 - T2",
+        "Province": "\u0110\u1ed3ng Nai",
+        "QuarterlyFee": [
+            1600,
+            2400,
+            3600,
+            6400,
+            13000
+        ],
+        "Road": "QL51",
+        "Tolerance": 30.0
+    },
+    {
+        "Description": "T\u00e2n H\u1ea3i, T\u00e2n Th\u00e0nh, B\u00e0 R\u1ecba - V\u0169ng T\u00e0u",
+        "Exclusive": [
+            21
+        ],
+        "Fee": [
+            20,
+            30,
+            44,
+            80,
+            160
+        ],
+        "Highway": [],
+        "HighwayFee": {},
+        "ID": 22,
+        "KM": "",
+        "Lat": 10.501193,
+        "Lng": 107.096577,
+        "MonthlyFee": [
+            600,
+            900,
+            1320,
+            2400,
+            4800
+        ],
+        "Name": "Tr\u1ea1m thu ph\u00ed QL51 - T3",
+        "Province": "BR-VT",
+        "QuarterlyFee": [
+            1600,
+            2400,
+            3600,
+            6400,
+            13000
+        ],
+        "Road": "QL51",
+        "Tolerance": 30.0
+    },
+    {
+        "Description": "Hi\u1ebfn Nam, H\u01b0ng Y\u00ean",
+        "Exclusive": [],
+        "Fee": [
+            35,
+            50,
+            75,
+            120,
+            180
+        ],
+        "Highway": [],
+        "HighwayFee": {},
+        "ID": 23,
+        "KM": "",
+        "Lat": 20.65894,
+        "Lng": 106.049001,
+        "MonthlyFee": [
+            1050,
+            1500,
+            2250,
+            3600,
+            5400
+        ],
+        "Name": "Tr\u1ea1m thu ph\u00ed c\u1ea7u Y\u00ean L\u1ec7nh",
+        "Province": "H\u01b0ng Y\u00ean",
+        "QuarterlyFee": [
+            2835,
+            4050,
+            6075,
+            9720,
+            14580
+        ],
+        "Road": "QL38B",
+        "Tolerance": 30.0
+    },
+    {
+        "Description": "T\u00e2n \u0110\u1ec7, T\u00e2n L\u1eadp, V\u0169 Th\u01b0, Th\u00e1i B\u00ecnh",
+        "Exclusive": [],
+        "Fee": [
+            35,
+            50,
+            75,
+            140,
+            200
+        ],
+        "Highway": [],
+        "HighwayFee": {},
+        "ID": 24,
+        "KM": "",
+        "Lat": 20.439946,
+        "Lng": 106.22514,
+        "MonthlyFee": [
+            1050,
+            1500,
+            2250,
+            4200,
+            6000
+        ],
+        "Name": "Tr\u1ea1m thu ph\u00ed c\u1ea7u T\u00e2n \u0110\u1ec7",
+        "Province": "Th\u00e1i B\u00ecnh",
+        "QuarterlyFee": [
+            2850,
+            4050,
+            6050,
+            11350,
+            16200
+        ],
+        "Road": "QL10",
+        "Tolerance": 30.0
+    },
+    {
+        "Description": "Qu\u1ea5t L\u01b0u, B\u00ecnh Xuy\u00ean, V\u0129nh Ph\u00fac",
+        "Exclusive": [
+            166,
+            165,
+            164,
+            101
+        ],
+        "Fee": [
+            15,
+            23,
+            33,
+            60,
+            120
+        ],
+        "Highway": [],
+        "HighwayFee": {},
+        "ID": 25,
+        "KM": "KM26+400",
+        "Lat": 21.283836,
+        "Lng": 105.634252,
+        "MonthlyFee": [
+            450,
+            690,
+            990,
+            1800,
+            3600
+        ],
+        "Name": "Tr\u1ea1m thu ph\u00ed Qu\u1ea5t L\u01b0u",
+        "Province": "V\u0129nh Ph\u00fac",
+        "QuarterlyFee": [
+            1200,
+            1800,
+            2700,
+            4800,
+            9750
+        ],
+        "Road": "QL2A",
+        "Tolerance": 30.0
+    },
+    {
+        "Description": "B\u1ea7n Y\u00ean Nh\u00e2n, V\u0103n L\u00e2m, H\u01b0ng Y\u00ean",
+        "Exclusive": [],
+        "Fee": [
+            40,
+            55,
+            75,
+            125,
+            180
+        ],
+        "Highway": [],
+        "HighwayFee": {},
+        "ID": 26,
+        "KM": "",
+        "Lat": 20.94935,
+        "Lng": 106.012515,
+        "MonthlyFee": [
+            1200,
+            1650,
+            2250,
+            3750,
+            5400
+        ],
+        "Name": "Tr\u1ea1m thu ph\u00ed QL5 - T1",
+        "Province": "H\u01b0ng Y\u00ean",
+        "QuarterlyFee": [
+            3240,
+            4455,
+            6075,
+            10125,
+            14580
+        ],
+        "Road": "QL5",
+        "Tolerance": 30.0
+    },
+    {
+        "Description": "M\u1ef9 H\u00e0o, H\u01b0ng Y\u00ean",
+        "Exclusive": [],
+        "Fee": [
+            40,
+            55,
+            75,
+            125,
+            180
+        ],
+        "Highway": [],
+        "HighwayFee": {},
+        "ID": 27,
+        "KM": "",
+        "Lat": 20.908554,
+        "Lng": 106.572669,
+        "MonthlyFee": [
+            1200,
+            1650,
+            2250,
+            3750,
+            5400
+        ],
+        "Name": "Tr\u1ea1m thu ph\u00ed QL5 - T2",
+        "Province": "H\u01b0ng Y\u00ean",
+        "QuarterlyFee": [
+            3240,
+            4455,
+            6075,
+            10125,
+            14580
+        ],
+        "Road": "QL5",
+        "Tolerance": 30.0
+    },
+    {
+        "Description": "Nam \u0110\u1ecbnh - Ph\u1ee7 L\u00fd, tt. M\u1ef9 L\u1ed9c, Tp. Nam \u0110\u1ecbnh, Nam \u0110\u1ecbnh",
+        "Exclusive": [],
+        "Fee": [
+            20,
+            30,
+            44,
+            80,
+            160
+        ],
+        "Highway": [],
+        "HighwayFee": {},
+        "ID": 28,
+        "KM": "",
+        "Lat": 20.447401,
+        "Lng": 106.119773,
+        "MonthlyFee": [
+            600,
+            900,
+            1320,
+            2400,
+            4800
+        ],
+        "Name": "Tr\u1ea1m thu ph\u00ed M\u1ef9 L\u1ed9c",
+        "Province": "Nam \u0110\u1ecbnh",
+        "QuarterlyFee": [
+            1600,
+            2400,
+            3600,
+            6480,
+            12960
+        ],
+        "Road": "QL21B",
+        "Tolerance": 30.0
+    },
+    {
+        "Description": "Ph\u1ea3 L\u1ea1i, Tx. Ch\u00ed Linh, H\u1ea3i D\u01b0\u01a1ng",
+        "Exclusive": [],
+        "Fee": [
+            10,
+            15,
+            22,
+            40,
+            80
+        ],
+        "Highway": [],
+        "HighwayFee": {},
+        "ID": 29,
+        "KM": "",
+        "Lat": 21.113063,
+        "Lng": 106.301834,
+        "MonthlyFee": [
+            300,
+            450,
+            660,
+            1200,
+            2400
+        ],
+        "Name": "Tr\u1ea1m thu ph\u00ed c\u1ea7u Ph\u1ea3 L\u1ea1i",
+        "Province": "H\u1ea3i D\u01b0\u01a1ng",
+        "QuarterlyFee": [
+            800,
+            1200,
+            1800,
+            3200,
+            6500
+        ],
+        "Road": "QL18",
+        "Tolerance": 30.0
+    },
+    {
+        "Description": "\u0110\u1ea1i Y\u00ean, Tp. H\u1ea1 Long, Qu\u1ea3ng Ninh",
+        "Exclusive": [],
+        "Fee": [
+            30,
+            40,
+            80,
+            80,
+            160
+        ],
+        "Highway": [],
+        "HighwayFee": {},
+        "ID": 30,
+        "KM": "",
+        "Lat": 20.986368,
+        "Lng": 106.90326,
+        "MonthlyFee": [
+            900,
+            1200,
+            2400,
+            2400,
+            4800
+        ],
+        "Name": "Tr\u1ea1m thu ph\u00ed \u0110\u1ea1i Y\u00ean",
+        "Province": "Qu\u1ea3ng Ninh",
+        "QuarterlyFee": [
+            2400,
+            3250,
+            6500,
+            6500,
+            12950
+        ],
+        "Road": "QL18",
+        "Tolerance": 30.0
+    },
+    {
+        "Description": "An Kh\u00e1nh, Ch\u00e2u Th\u00e0nh, B\u1ebfn Tre",
+        "Exclusive": [],
+        "Fee": [
+            45,
+            45,
+            60,
+            90,
+            140
+        ],
+        "Highway": [],
+        "HighwayFee": {},
+        "ID": 31,
+        "KM": "",
+        "Lat": 10.314765,
+        "Lng": 106.348372,
+        "MonthlyFee": [
+            1350,
+            1350,
+            1800,
+            2700,
+            4200
+        ],
+        "Name": "Tr\u1ea1m thu ph\u00ed c\u1ea7u R\u1ea1ch Mi\u1ec5u",
+        "Province": "B\u1ebfn Tre",
+        "QuarterlyFee": [
+            3640,
+            3640,
+            4860,
+            7290,
+            11340
+        ],
+        "Road": "QL60",
+        "Tolerance": 30.0
+    },
+    {
+        "Description": "\u0110\u1ed3ng Ti\u1ebfn, \u0110\u1ed3ng Ph\u00fa, B\u00ecnh Ph\u01b0\u1edbc",
+        "Exclusive": [],
+        "Fee": [
+            35,
+            55,
+            80,
+            140,
+            200
+        ],
+        "Highway": [],
+        "HighwayFee": {},
+        "ID": 32,
+        "KM": "KM2016+400",
+        "Lat": 11.564094,
+        "Lng": 106.953944,
+        "MonthlyFee": [
+            1050,
+            1650,
+            2400,
+            4200,
+            6000
+        ],
+        "Name": "Tr\u1ea1m thu ph\u00ed QL14-BP",
+        "Province": "B\u00ecnh Ph\u01b0\u1edbc",
+        "QuarterlyFee": [
+            2850,
+            4450,
+            6500,
+            11350,
+            16200
+        ],
+        "Road": "QL14",
+        "Tolerance": 30.0
+    },
+    {
+        "Description": "\u0110\u1eafk G\u1eb1n, \u0110\u1eafk N\u00f4ng",
+        "Exclusive": [],
+        "Fee": [
+            35,
+            50,
+            75,
+            140,
+            200
+        ],
+        "Highway": [],
+        "HighwayFee": {},
+        "ID": 33,
+        "KM": "KM1877+600",
+        "Lat": 12.561147,
+        "Lng": 107.822336,
+        "MonthlyFee": [
+            1050,
+            1500,
+            2250,
+            4200,
+            6000
+        ],
+        "Name": "Tr\u1ea1m thu ph\u00ed To\u00e0n M\u1ef9 14",
+        "Province": "\u0110\u1eafk N\u00f4ng",
+        "QuarterlyFee": [
+            2835,
+            4050,
+            6075,
+            11340,
+            16200
+        ],
+        "Road": "QL14",
+        "Tolerance": 30.0
+    },
+    {
+        "Description": "Ia B\u0103ng, \u0110\u0103k \u0110oa, Gia Lai",
+        "Exclusive": [],
+        "Fee": [
+            35,
+            50,
+            75,
+            140,
+            200
+        ],
+        "Highway": [],
+        "HighwayFee": {},
+        "ID": 34,
+        "KM": "KM1610+800",
+        "Lat": 13.874378,
+        "Lng": 108.00802,
+        "MonthlyFee": [
+            1050,
+            1500,
+            2250,
+            4200,
+            6000
+        ],
+        "Name": "Tr\u1ea1m thu ph\u00ed \u0110\u1ee9c Long Gia Lai 1",
+        "Province": "Gia Lai",
+        "QuarterlyFee": [
+            2835,
+            4050,
+            6075,
+            11340,
+            16200
+        ],
+        "Road": "QL14",
+        "Tolerance": 30.0
+    },
+    {
+        "Description": "Th\u00f4n 6, x\u00e3 Lale, huy\u1ec7n Ch\u01b0 puwh, t\u1ec9nh Gia Lai",
+        "Exclusive": [],
+        "Fee": [
+            35,
+            50,
+            75,
+            140,
+            200
+        ],
+        "Highway": [],
+        "HighwayFee": {},
+        "ID": 35,
+        "KM": "KM1667+470",
+        "Lat": 13.413563,
+        "Lng": 108.092907,
+        "MonthlyFee": [
+            1050,
+            1500,
+            2250,
+            4200,
+            6000
+        ],
+        "Name": "Tr\u1ea1m thu ph\u00ed \u0110\u1ee9c Long Gia Lai 2",
+        "Province": "Gia Lai",
+        "QuarterlyFee": [
+            2835,
+            4050,
+            6075,
+            11340,
+            16200
+        ],
+        "Road": "QL14",
+        "Tolerance": 30.0
+    },
+    {
+        "Description": "L\u01b0\u01a1ng S\u01a1n, H\u00f2a B\u00ecnh",
+        "Exclusive": [],
+        "Fee": [
+            35,
+            55,
+            75,
+            140,
+            200
+        ],
+        "Highway": [],
+        "HighwayFee": {},
+        "ID": 36,
+        "KM": "KM42+730",
+        "Lat": 20.870464,
+        "Lng": 105.513757,
+        "MonthlyFee": [
+            1050,
+            1650,
+            2250,
+            4200,
+            6000
+        ],
+        "Name": "Tr\u1ea1m thu ph\u00ed L\u01b0\u01a1ng S\u01a1n",
+        "Province": "H\u00f2a B\u00ecnh",
+        "QuarterlyFee": [
+            2835,
+            4455,
+            6075,
+            11340,
+            16200
+        ],
+        "Road": "QL6",
+        "Tolerance": 30.0
+    },
+    {
+        "Description": "B\u1ea1ch H\u1ea1c, Vi\u1ec7t Tr\u00ec, Ph\u00fa Th\u1ecd",
+        "Exclusive": [],
+        "Fee": [
+            35,
+            50,
+            75,
+            120,
+            180
+        ],
+        "Highway": [],
+        "HighwayFee": {},
+        "ID": 37,
+        "KM": "",
+        "Lat": 21.294663,
+        "Lng": 105.449264,
+        "MonthlyFee": [
+            1050,
+            1500,
+            2250,
+            3600,
+            5400
+        ],
+        "Name": "Tr\u1ea1m thu ph\u00ed c\u1ea7u Vi\u1ec7t Tr\u00ec",
+        "Province": "Ph\u00fa Th\u1ecd",
+        "QuarterlyFee": [
+            2835,
+            4050,
+            6075,
+            9720,
+            14580
+        ],
+        "Road": "QL2",
+        "Tolerance": 30.0
+    },
+    {
+        "Description": "B\u00ecnh \u0110\u00f4ng, Tx. G\u00f2 C\u00f4ng, Ti\u1ec1n Giang",
+        "Exclusive": [],
+        "Fee": [
+            35,
+            50,
+            65,
+            110,
+            180
+        ],
+        "Highway": [],
+        "HighwayFee": {},
+        "ID": 38,
+        "KM": "",
+        "Lat": 10.464148,
+        "Lng": 106.643342,
+        "MonthlyFee": [
+            1050,
+            1500,
+            1950,
+            3300,
+            5400
+        ],
+        "Name": "Tr\u1ea1m thu ph\u00ed c\u1ea7u M\u1ef9 L\u1ee3i",
+        "Province": "Ti\u1ec1n Giang",
+        "QuarterlyFee": [
+            2835,
+            4050,
+            5265,
+            8910,
+            14580
+        ],
+        "Road": "QL50",
+        "Tolerance": 30.0
+    },
+    {
+        "Description": "Tr\u1ea1m thu ph\u00ed Su\u1ed1i Gi\u1eefa,  X\u00e3 \u0110\u1ecbnh H\u00f2a, Hi\u1ec7p Th\u00e0nh, Tp. Th\u1ee7 D\u1ea7u M\u1ed9t, B\u00ecnh D\u01b0\u01a1ng",
+        "Exclusive": [],
+        "Fee": [
+            15,
+            15,
+            20,
+            20,
+            20
+        ],
+        "Highway": [],
+        "HighwayFee": {},
+        "ID": 39,
+        "KM": "",
+        "Lat": 11.005241,
+        "Lng": 106.6456,
+        "MonthlyFee": [],
+        "Name": "Tr\u1ea1m thu ph\u00ed Su\u1ed1i Gi\u1eefa",
+        "Province": "B\u00ecnh D\u01b0\u01a1ng",
+        "QuarterlyFee": [],
+        "Road": "QL13",
+        "Tolerance": 30.0
+    },
+    {
+        "Description": "Tr\u1ea1m thu ph\u00ed \u0110\u1ea1i L\u1ed9 B\u00ecnh D\u01b0\u01a1ng",
+        "Exclusive": [],
+        "Fee": [
+            15,
+            15,
+            20,
+            20,
+            20
+        ],
+        "Highway": [],
+        "HighwayFee": {},
+        "ID": 40,
+        "KM": "",
+        "Lat": 10.888565,
+        "Lng": 106.701047,
+        "MonthlyFee": [],
+        "Name": "Tr\u1ea1m thu ph\u00ed V\u0129nh Ph\u00fa (L\u00e1i Thi\u00eau)",
+        "Province": "B\u00ecnh D\u01b0\u01a1ng",
+        "QuarterlyFee": [],
+        "Road": "QL13",
+        "Tolerance": 30.0
+    },
+    {
+        "Description": "Tr\u1ea1m thu Ph\u00ed QL1K - B\u1eedu H\u00f2a, Tp. Bi\u00ean H\u00f2a, \u0110\u1ed3ng Nai",
+        "Exclusive": [
+            42
+        ],
+        "Fee": [
+            10,
+            15,
+            22,
+            40,
+            80
+        ],
+        "Highway": [],
+        "HighwayFee": {},
+        "ID": 41,
+        "KM": "",
+        "Lat": 10.921089,
+        "Lng": 106.802907,
+        "MonthlyFee": [
+            300,
+            450,
+            660,
+            1200,
+            2400
+        ],
+        "Name": "Tr\u1ea1m thu ph\u00ed QL1K - B\u1eedu H\u00f2a",
+        "Province": "\u0110\u1ed3ng Nai",
+        "QuarterlyFee": [],
+        "Road": "QL1K",
+        "Tolerance": 30.0
+    },
+    {
+        "Description": "Tr\u1ea1m thu Ph\u00ed QL1K - \u1ea4p T\u00e2n H\u00f2a, X\u00e3 \u0110\u00f4ng H\u00f2a, Huy\u1ec7n D\u0129 An, B\u00ecnh D\u01b0\u01a1ng",
+        "Exclusive": [
+            41
+        ],
+        "Fee": [
+            10,
+            15,
+            22,
+            40,
+            80
+        ],
+        "Highway": [],
+        "HighwayFee": {},
+        "ID": 42,
+        "KM": "",
+        "Lat": 10.890996,
+        "Lng": 106.787223,
+        "MonthlyFee": [
+            300,
+            450,
+            660,
+            1200,
+            2400
+        ],
+        "Name": "Tr\u1ea1m thu ph\u00ed B\u00ecnh Th\u1eafng",
+        "Province": "B\u00ecnh D\u01b0\u01a1ng",
+        "QuarterlyFee": [],
+        "Road": "QL1K",
+        "Tolerance": 30.0
+    },
+    {
+        "Description": "Ph\u01b0\u1eddng T\u00e2n \u0110\u00f4ng Hi\u1ec7p, Tx. D\u0129 An, B\u00ecnh D\u01b0\u01a1ng",
+        "Exclusive": [],
+        "Fee": [
+            10,
+            10,
+            20,
+            20,
+            20
+        ],
+        "Highway": [],
+        "HighwayFee": {},
+        "ID": 43,
+        "KM": "",
+        "Lat": 10.907646,
+        "Lng": 106.790995,
+        "MonthlyFee": [],
+        "Name": "Tr\u1ea1m thu ph\u00ed \u0110T743 ",
+        "Province": "B\u00ecnh D\u01b0\u01a1ng",
+        "QuarterlyFee": [],
+        "Road": "DT743B",
+        "Tolerance": 30.0
+    },
+    {
+        "Description": "\u1ea4p Ng\u00e3i Th\u1eafng B\u00ecnh Th\u1eafng Huy\u1ec7n D\u0129 An, B\u00ecnh Th\u1eafng, Tx. D\u0129 An, B\u00ecnh D\u01b0\u01a1ng",
+        "Exclusive": [],
+        "Fee": [
+            10,
+            10,
+            20,
+            20,
+            20
+        ],
+        "Highway": [],
+        "HighwayFee": {},
+        "ID": 44,
+        "KM": "",
+        "Lat": 10.89802,
+        "Lng": 106.811322,
+        "MonthlyFee": [],
+        "Name": "Tr\u1ea1m thu ph\u00ed \u0110T743 - T\u00e2n V\u1ea1n",
+        "Province": "B\u00ecnh D\u01b0\u01a1ng",
+        "QuarterlyFee": [],
+        "Road": "DT743C",
+        "Tolerance": 30.0
+    },
+    {
+        "Description": "\u0110\u00f4ng An, ph\u01b0\u1eddng T\u00e2n \u0110\u00f4ng Hi\u1ec7p, Tx. D\u0129 An, B\u00ecnh D\u01b0\u01a1ng",
+        "Exclusive": [],
+        "Fee": [
+            10,
+            10,
+            20,
+            20,
+            20
+        ],
+        "Highway": [],
+        "HighwayFee": {},
+        "ID": 45,
+        "KM": "",
+        "Lat": 10.911582,
+        "Lng": 106.781146,
+        "MonthlyFee": [],
+        "Name": "Tr\u1ea1m thu ph\u00ed \u0110T743 - \u0110\u00f4ng An",
+        "Province": "B\u00ecnh D\u01b0\u01a1ng",
+        "QuarterlyFee": [],
+        "Road": "DT743B",
+        "Tolerance": 30.0
+    },
+    {
+        "Description": "B\u00ecnh H\u00f2a, Tx. Thu\u1eadn An, B\u00ecnh D\u01b0\u01a1ng",
+        "Exclusive": [],
+        "Fee": [
+            10,
+            10,
+            20,
+            20,
+            20
+        ],
+        "Highway": [],
+        "HighwayFee": {},
+        "ID": 46,
+        "KM": "",
+        "Lat": 10.900822,
+        "Lng": 106.714246,
+        "MonthlyFee": [],
+        "Name": "Tr\u1ea1m thu ph\u00ed \u0110T743 - B\u00ecnh Thung",
+        "Province": "B\u00ecnh D\u01b0\u01a1ng",
+        "QuarterlyFee": [],
+        "Road": "DT743B",
+        "Tolerance": 30.0
+    },
+    {
+        "Description": "Cai L\u1eady, Ti\u1ec1n Giang",
+        "Exclusive": [],
+        "Fee": [
+            35,
+            50,
+            60,
+            100,
+            200
+        ],
+        "Highway": [],
+        "HighwayFee": {},
+        "ID": 47,
+        "KM": "KM1999+300",
+        "Lat": 10.412092,
+        "Lng": 106.064236,
+        "MonthlyFee": [
+            1050,
+            1500,
+            1800,
+            3000,
+            6000
+        ],
+        "Name": "Tr\u1ea1m thu ph\u00ed Cai L\u1eady",
+        "Province": "Ti\u1ec1n Giang",
+        "QuarterlyFee": [
+            2835,
+            4050,
+            4860,
+            8100,
+            16200
+        ],
+        "Road": "QL1A",
+        "Tolerance": 30.0
+    },
+    {
+        "Description": "C\u1ea7u R\u1ea1ch Chi\u1ebfc",
+        "Exclusive": [],
+        "Fee": [
+            10,
+            15,
+            30,
+            30,
+            40
+        ],
+        "Highway": [],
+        "HighwayFee": {},
+        "ID": 48,
+        "KM": "",
+        "Lat": 10.819746,
+        "Lng": 106.758188,
+        "MonthlyFee": [],
+        "Name": "Tr\u1ea1m thu ph\u00ed xa l\u1ed9 H\u00e0 N\u1ed9i",
+        "Province": "TP HCM",
+        "QuarterlyFee": [],
+        "Road": "QL52",
+        "Tolerance": 30.0
+    },
+    {
+        "Description": "C\u1ea7u \u0110\u1ed3ng Nai, Xa l\u1ed9 H\u00e0 N\u1ed9i, Long B\u00ecnh T\u00e2n, Tp. Bi\u00ean H\u00f2a, \u0110\u1ed3ng Nai",
+        "Exclusive": [],
+        "Fee": [
+            15,
+            23,
+            33,
+            60,
+            120
+        ],
+        "Highway": [],
+        "HighwayFee": {},
+        "ID": 49,
+        "KM": "",
+        "Lat": 10.903171,
+        "Lng": 106.843791,
+        "MonthlyFee": [
+            450,
+            690,
+            990,
+            1800,
+            3600
+        ],
+        "Name": "Tr\u1ea1m thu ph\u00ed Long B\u00ecnh T\u00e2n",
+        "Province": "\u0110\u1ed3ng Nai",
+        "QuarterlyFee": [
+            1200,
+            1850,
+            2650,
+            4850,
+            9700
+        ],
+        "Road": "QL1A",
+        "Tolerance": 30.5
+    },
+    {
+        "Description": "Tr\u1ea3ng Bom, \u0110\u1ed3ng Nai",
+        "Exclusive": [],
+        "Fee": [
+            35,
+            50,
+            75,
+            120,
+            180
+        ],
+        "Highway": [],
+        "HighwayFee": {},
+        "ID": 50,
+        "KM": "",
+        "Lat": 10.945397,
+        "Lng": 107.057447,
+        "MonthlyFee": [
+            1050,
+            1500,
+            2250,
+            3600,
+            5400
+        ],
+        "Name": "Tr\u1ea1m thu ph\u00ed \u0111\u01b0\u1eddng tr\u00e1nh Bi\u00ean H\u00f2a",
+        "Province": "\u0110\u1ed3ng Nai",
+        "QuarterlyFee": [
+            2835,
+            4050,
+            6075,
+            9720,
+            14580
+        ],
+        "Road": "QL1A",
+        "Tolerance": 30.0
+    },
+    {
+        "Description": "B\u1eedu Long, Bi\u00ean H\u00f2a, \u0110\u1ed3ng Nai",
+        "Exclusive": [],
+        "Fee": [
+            15,
+            22,
+            33,
+            60,
+            120
+        ],
+        "Highway": [],
+        "HighwayFee": {},
+        "ID": 51,
+        "KM": "",
+        "Lat": 10.972796,
+        "Lng": 106.800751,
+        "MonthlyFee": [],
+        "Name": "Tr\u1ea1m thu ph\u00ed \u0110T768 - T1 B\u1eedu Long",
+        "Province": "\u0110\u1ed3ng Nai",
+        "QuarterlyFee": [],
+        "Road": "DT768",
+        "Tolerance": 30.0
+    },
+    {
+        "Description": "Thi\u1ec7n T\u00e2n, V\u0129nh C\u1eedu, \u0110\u1ed3ng Nai",
+        "Exclusive": [],
+        "Fee": [
+            15,
+            22,
+            33,
+            60,
+            120
+        ],
+        "Highway": [],
+        "HighwayFee": {},
+        "ID": 52,
+        "KM": "",
+        "Lat": 11.02366,
+        "Lng": 106.899572,
+        "MonthlyFee": [],
+        "Name": "Tr\u1ea1m thu ph\u00ed \u0110T768 - T4 Thi\u1ec7n T\u00e2n",
+        "Province": "\u0110\u1ed3ng Nai",
+        "QuarterlyFee": [],
+        "Road": "DT768",
+        "Tolerance": 30.0
+    },
+    {
+        "Description": "V\u0129nh C\u1eedu, \u0110\u1ed3ng Nai",
+        "Exclusive": [],
+        "Fee": [
+            15,
+            22,
+            33,
+            60,
+            120
+        ],
+        "Highway": [],
+        "HighwayFee": {},
+        "ID": 53,
+        "KM": "",
+        "Lat": 11.028271,
+        "Lng": 106.912986,
+        "MonthlyFee": [],
+        "Name": "Tr\u1ea1m thu ph\u00ed \u0110T768 - T3 V\u0129nh C\u1eedu",
+        "Province": "\u0110\u1ed3ng Nai",
+        "QuarterlyFee": [],
+        "Road": "DT768",
+        "Tolerance": 30.0
+    },
+    {
+        "Description": "\u0110\u01b0\u1eddng Ho\u00e0ng V\u0103n B\u1ed5n, T\u00e2n H\u00f2a, Tp. Bi\u00ean H\u00f2a, \u0110\u1ed3ng Nai",
+        "Exclusive": [],
+        "Fee": [
+            15,
+            22,
+            33,
+            60,
+            120
+        ],
+        "Highway": [],
+        "HighwayFee": {},
+        "ID": 54,
+        "KM": "",
+        "Lat": 10.990687,
+        "Lng": 106.901789,
+        "MonthlyFee": [],
+        "Name": "Tr\u1ea1m thu ph\u00ed Thi\u1ec7n T\u00e2n - T4",
+        "Province": "\u0110\u1ed3ng Nai",
+        "QuarterlyFee": [],
+        "Road": "",
+        "Tolerance": 30.0
+    },
+    {
+        "Description": "\u0110\u01b0\u1eddng \u0110\u1ed3ng Kh\u1edfi, T\u00e2n Phong, Bi\u00ean H\u00f2a, \u0110\u1ed3ng Nai",
+        "Exclusive": [],
+        "Fee": [
+            15,
+            22,
+            33,
+            60,
+            120
+        ],
+        "Highway": [],
+        "HighwayFee": {},
+        "ID": 55,
+        "KM": "",
+        "Lat": 10.976968,
+        "Lng": 106.849279,
+        "MonthlyFee": [],
+        "Name": "Tr\u1ea1m thu ph\u00ed 2a (DT768)",
+        "Province": "\u0110\u1ed3ng Nai",
+        "QuarterlyFee": [],
+        "Road": "",
+        "Tolerance": 30.0
+    },
+    {
+        "Description": "H\u00f3a An, Tp. Bi\u00ean H\u00f2a, \u0110\u1ed3ng Nai",
+        "Exclusive": [],
+        "Fee": [
+            10,
+            15,
+            20,
+            40,
+            60
+        ],
+        "Highway": [],
+        "HighwayFee": {},
+        "ID": 56,
+        "KM": "",
+        "Lat": 10.943051,
+        "Lng": 106.805379,
+        "MonthlyFee": [],
+        "Name": "Tr\u1ea1m thu ph\u00ed t\u1ec9nh l\u1ed9 16 T3",
+        "Province": "\u0110\u1ed3ng Nai",
+        "QuarterlyFee": [],
+        "Road": "DT16",
+        "Tolerance": 30.0
+    },
+    {
+        "Description": "H\u00f3a An, Tp. Bi\u00ean H\u00f2a, \u0110\u1ed3ng Nai",
+        "Exclusive": [],
+        "Fee": [
+            10,
+            15,
+            20,
+            40,
+            60
+        ],
+        "Highway": [],
+        "HighwayFee": {},
+        "ID": 57,
+        "KM": "",
+        "Lat": 10.942888,
+        "Lng": 106.80349,
+        "MonthlyFee": [],
+        "Name": "Tr\u1ea1m thu ph\u00ed t\u1ec9nh l\u1ed9 16 T2",
+        "Province": "\u0110\u1ed3ng Nai",
+        "QuarterlyFee": [],
+        "Road": "DT16",
+        "Tolerance": 30.0
+    },
+    {
+        "Description": "B\u00f9i H\u1eefu Ngh\u0129a, T\u00e2n V\u1ea1n, Tp. Bi\u00ean H\u00f2a, \u0110\u1ed3ng Nai",
+        "Exclusive": [],
+        "Fee": [
+            10,
+            15,
+            20,
+            40,
+            60
+        ],
+        "Highway": [],
+        "HighwayFee": {},
+        "ID": 58,
+        "KM": "",
+        "Lat": 10.910378,
+        "Lng": 106.828555,
+        "MonthlyFee": [],
+        "Name": "Tr\u1ea1m thu ph\u00ed t\u1ec9nh l\u1ed9 16 T4",
+        "Province": "\u0110\u1ed3ng Nai",
+        "QuarterlyFee": [],
+        "Road": "DT16",
+        "Tolerance": 30.0
+    },
+    {
+        "Description": "Tr\u1ea1m thu ph\u00ed \u0111\u01b0\u1eddng Nguy\u1ec5n V\u0103n Linh",
+        "Exclusive": [
+            60
+        ],
+        "Fee": [
+            10,
+            15,
+            30,
+            30,
+            40
+        ],
+        "Highway": [],
+        "HighwayFee": {},
+        "ID": 59,
+        "KM": "",
+        "Lat": 10.695622,
+        "Lng": 106.615406,
+        "MonthlyFee": [],
+        "Name": "Tr\u1ea1m thu ph\u00ed Nguy\u1ec5n V\u0103n Linh T1",
+        "Province": "TP HCM",
+        "QuarterlyFee": [],
+        "Road": "",
+        "Tolerance": 30.0
+    },
+    {
+        "Description": "Tr\u1ea1m thu ph\u00ed \u0111\u01b0\u1eddng Nguy\u1ec5n V\u0103n Linh",
+        "Exclusive": [
+            59
+        ],
+        "Fee": [
+            10,
+            15,
+            30,
+            30,
+            40
+        ],
+        "Highway": [],
+        "HighwayFee": {},
+        "ID": 60,
+        "KM": "",
+        "Lat": 10.728489,
+        "Lng": 106.694542,
+        "MonthlyFee": [],
+        "Name": "Tr\u1ea1m thu ph\u00ed Nguy\u1ec5n V\u0103n Linh T2",
+        "Province": "TP HCM",
+        "QuarterlyFee": [],
+        "Road": "",
+        "Tolerance": 30.0
+    },
+    {
+        "Description": "Tr\u1ea1m thu ph\u00ed c\u1ea7u Ph\u00fa M\u1ef9",
+        "Exclusive": [],
+        "Fee": [
+            15,
+            20,
+            25,
+            40,
+            80
+        ],
+        "Highway": [],
+        "HighwayFee": {},
+        "ID": 61,
+        "KM": "",
+        "Lat": 10.760011,
+        "Lng": 106.764886,
+        "MonthlyFee": [
+            450,
+            600,
+            750,
+            1200,
+            2400
+        ],
+        "Name": "Tr\u1ea1m thu ph\u00ed C\u1ea7u Ph\u00fa M\u1ef9",
+        "Province": "TP HCM",
+        "QuarterlyFee": [
+            1200,
+            1600,
+            2000,
+            3200,
+            6500
+        ],
+        "Road": "",
+        "Tolerance": 30.0
+    },
+    {
+        "Description": "QL 1A (TP HCM)",
+        "Exclusive": [],
+        "Fee": [
+            15,
+            20,
+            40,
+            50,
+            80
+        ],
+        "Highway": [],
+        "HighwayFee": {},
+        "ID": 62,
+        "KM": "",
+        "Lat": 10.794994,
+        "Lng": 106.59661,
+        "MonthlyFee": [
+            450,
+            600,
+            1200,
+            1500,
+            2400
+        ],
+        "Name": "Tr\u1ea1m thu ph\u00ed An S\u01b0\u01a1ng - An L\u1ea1c",
+        "Province": "TP HCM",
+        "QuarterlyFee": [],
+        "Road": "QL1A",
+        "Tolerance": 30.0
+    },
+    {
+        "Description": "Ba L\u00e1ng, C\u00e1i R\u0103ng, C\u1ea7n Th\u01a1",
+        "Exclusive": [],
+        "Fee": [
+            35,
+            50,
+            75,
+            140,
+            200
+        ],
+        "Highway": [],
+        "HighwayFee": {},
+        "ID": 63,
+        "KM": "KM2079+535",
+        "Lat": 9.972873,
+        "Lng": 105.740366,
+        "MonthlyFee": [
+            1050,
+            1500,
+            2250,
+            4200,
+            6000
+        ],
+        "Name": "Tr\u1ea1m thu ph\u00ed s\u1ed1 10",
+        "Province": "C\u1ea7n Th\u01a1",
+        "QuarterlyFee": [
+            2835,
+            4050,
+            6075,
+            11340,
+            16200
+        ],
+        "Road": "QL1A",
+        "Tolerance": 30.0
+    },
+    {
+        "Description": "An Hi\u1ec7p, Ch\u00e2u Th\u00e0nh, S\u00f3c Tr\u0103ng",
+        "Exclusive": [],
+        "Fee": [
+            25,
+            35,
+            40,
+            70,
+            140
+        ],
+        "Highway": [],
+        "HighwayFee": {},
+        "ID": 64,
+        "KM": "KM2123+250",
+        "Lat": 9.65728,
+        "Lng": 105.933011,
+        "MonthlyFee": [
+            750,
+            1050,
+            1200,
+            2100,
+            4200
+        ],
+        "Name": "Tr\u1ea1m thu ph\u00ed An Hi\u1ec7p - S\u00f3c Tr\u0103ng",
+        "Province": "S\u00f3c Tr\u0103ng",
+        "QuarterlyFee": [
+            2025,
+            2835,
+            3240,
+            5670,
+            11340
+        ],
+        "Road": "QL1A",
+        "Tolerance": 30.0
+    },
+    {
+        "Description": "Ch\u00e2u H\u01b0ng A, V\u0129nh L\u1ee3i, B\u1ea1c Li\u00eau",
+        "Exclusive": [],
+        "Fee": [
+            25,
+            35,
+            40,
+            70,
+            140
+        ],
+        "Highway": [],
+        "HighwayFee": {},
+        "ID": 65,
+        "KM": "KM2171+200",
+        "Lat": 9.374303,
+        "Lng": 105.712271,
+        "MonthlyFee": [
+            750,
+            1050,
+            1200,
+            2100,
+            4200
+        ],
+        "Name": "Tr\u1ea1m thu ph\u00ed B\u1ea1c Li\u00eau",
+        "Province": "B\u1ea1c Li\u00eau",
+        "QuarterlyFee": [
+            2025,
+            2835,
+            3240,
+            5670,
+            11340
+        ],
+        "Road": "QL1A",
+        "Tolerance": 30.0
+    },
+    {
+        "Description": "Kh\u00e1nh H\u00f2a, Tx. V\u0129nh Ch\u00e2u, S\u00f3c Tr\u0103ng ",
+        "Exclusive": [],
+        "Fee": [
+            10,
+            15,
+            20,
+            40,
+            60
+        ],
+        "Highway": [],
+        "HighwayFee": {},
+        "ID": 66,
+        "KM": "",
+        "Lat": 9.42176,
+        "Lng": 105.997947,
+        "MonthlyFee": [
+            300,
+            450,
+            600,
+            1200,
+            1800
+        ],
+        "Name": "Tr\u1ea1m thu ph\u00ed c\u1ea7u M\u1ef9 Thanh",
+        "Province": "S\u00f3c Tr\u0103ng",
+        "QuarterlyFee": [
+            800,
+            1200,
+            1600,
+            3200,
+            4800
+        ],
+        "Road": "DT935",
+        "Tolerance": 30.0
+    },
+    {
+        "Description": "Th\u1ed1t N\u1ed1t, C\u1ea7n Th\u01a1",
+        "Exclusive": [],
+        "Fee": [
+            35,
+            50,
+            75,
+            140,
+            200
+        ],
+        "Highway": [],
+        "HighwayFee": {},
+        "ID": 67,
+        "KM": "KM50+050",
+        "Lat": 10.317489,
+        "Lng": 105.485969,
+        "MonthlyFee": [
+            1050,
+            1500,
+            2250,
+            4200,
+            6000
+        ],
+        "Name": "Tr\u1ea1m thu ph\u00ed T2",
+        "Province": "C\u1ea7n Th\u01a1",
+        "QuarterlyFee": [
+            2835,
+            4050,
+            6075,
+            11340,
+            16200
+        ],
+        "Road": "QL91",
+        "Tolerance": 30.0
+    },
+    {
+        "Description": "Ch\u00e2u V\u0103n Li\u00eam, \u00d4 M\u00f4n, C\u1ea7n Th\u01a1",
+        "Exclusive": [],
+        "Fee": [
+            35,
+            50,
+            75,
+            140,
+            200
+        ],
+        "Highway": [],
+        "HighwayFee": {},
+        "ID": 68,
+        "KM": "KM16+905",
+        "Lat": 10.111715,
+        "Lng": 105.648977,
+        "MonthlyFee": [
+            1050,
+            1500,
+            2250,
+            4200,
+            6000
+        ],
+        "Name": "Tr\u1ea1m thu ph\u00ed \u00d4 M\u00f4n",
+        "Province": "C\u1ea7n Th\u01a1",
+        "QuarterlyFee": [
+            2835,
+            4050,
+            6075,
+            11340,
+            16200
+        ],
+        "Road": "QL91",
+        "Tolerance": 30.0
+    },
+    {
+        "Description": "\u0110\u1ea1i Th\u1eafng, Ti\u00ean L\u00e3ng, H\u1ea3i Ph\u00f2ng",
+        "Exclusive": [],
+        "Fee": [
+            10,
+            15,
+            22,
+            40,
+            80
+        ],
+        "Highway": [],
+        "HighwayFee": {},
+        "ID": 69,
+        "KM": "",
+        "Lat": 20.776371,
+        "Lng": 106.507683,
+        "MonthlyFee": [
+            300,
+            450,
+            660,
+            1200,
+            2400
+        ],
+        "Name": "Tr\u1ea1m thu ph\u00ed c\u1ea7u Ti\u00ean C\u1ef1u",
+        "Province": "H\u1ea3i Ph\u00f2ng",
+        "QuarterlyFee": [
+            800,
+            1200,
+            1800,
+            3200,
+            6500
+        ],
+        "Road": "QL10",
+        "Tolerance": 30.0
+    },
+    {
+        "Description": "B\u00ea T\u00f4ng, B\u00ecnh Th\u1ea1nh, Cao L\u00e3nh, \u0110\u1ed3ng Th\u00e1p (Qua s\u00f4ng C\u00e1i Nh\u1ecf)",
+        "Exclusive": [],
+        "Fee": [
+            15,
+            20,
+            20,
+            25,
+            0
+        ],
+        "Highway": [],
+        "HighwayFee": {},
+        "ID": 70,
+        "KM": "",
+        "Lat": 10.342131,
+        "Lng": 105.775931,
+        "MonthlyFee": [
+            450,
+            600,
+            600,
+            750,
+            0
+        ],
+        "Name": "Tr\u1ea1m thu ph\u00ed c\u1ea7u Mi\u1ec5u Tr\u1eafng",
+        "Province": "\u0110\u1ed3ng Th\u00e1p",
+        "QuarterlyFee": [],
+        "Road": "",
+        "Tolerance": 30.0
+    },
+    {
+        "Description": "CT Li\u00ean Kh\u01b0\u01a1ng, \u0110\u1ecbnh An, L\u00e2m \u0110\u1ed3ng",
+        "Exclusive": [],
+        "Fee": [
+            36,
+            48,
+            60,
+            96,
+            192
+        ],
+        "Highway": [],
+        "HighwayFee": {},
+        "ID": 71,
+        "KM": "",
+        "Lat": 11.859612,
+        "Lng": 108.457753,
+        "MonthlyFee": [],
+        "Name": "Tr\u1ea1m thu ph\u00ed \u0110\u1ecbnh An",
+        "Province": "L\u00e2m \u0110\u1ed3ng",
+        "QuarterlyFee": [],
+        "Road": "QL20",
+        "Tolerance": 30.0
+    },
+    {
+        "Description": "\u0110\u01b0\u1eddng Nguy\u1ec5n Th\u1ecb T\u00fa",
+        "Exclusive": [],
+        "Fee": [
+            10,
+            15,
+            30,
+            30,
+            40
+        ],
+        "Highway": [],
+        "HighwayFee": {},
+        "ID": 72,
+        "KM": "",
+        "Lat": 10.816324,
+        "Lng": 106.60074,
+        "MonthlyFee": [],
+        "Name": "Tr\u1ea1m thu ph\u00ed Nguy\u1ec5n Th\u1ecb T\u00fa",
+        "Province": "TP HCM",
+        "QuarterlyFee": [],
+        "Road": "",
+        "Tolerance": 30.0
+    },
+    {
+        "Description": "\u0110\u01b0\u1eddng L\u00ea Tr\u1ecdng T\u1ea5n",
+        "Exclusive": [],
+        "Fee": [
+            10,
+            15,
+            30,
+            30,
+            40
+        ],
+        "Highway": [],
+        "HighwayFee": {},
+        "ID": 73,
+        "KM": "",
+        "Lat": 10.816157,
+        "Lng": 106.601476,
+        "MonthlyFee": [],
+        "Name": "Tr\u1ea1m thu ph\u00ed T\u00e2n K\u1ef3 T\u00e2n Qu\u00fd",
+        "Province": "TP HCM",
+        "QuarterlyFee": [],
+        "Road": "",
+        "Tolerance": 30.0
+    },
+    {
+        "Description": "\u0110\u01b0\u1eddng Kinh D\u01b0\u01a1ng V\u01b0\u01a1ng",
+        "Exclusive": [],
+        "Fee": [
+            10,
+            15,
+            30,
+            30,
+            40
+        ],
+        "Highway": [],
+        "HighwayFee": {},
+        "ID": 74,
+        "KM": "",
+        "Lat": 10.730678,
+        "Lng": 106.610599,
+        "MonthlyFee": [],
+        "Name": "Tr\u1ea1m thu ph\u00ed \u0111\u01b0\u1eddng Kinh D\u01b0\u01a1ng V\u01b0\u01a1ng",
+        "Province": "TP HCM",
+        "QuarterlyFee": [],
+        "Road": "",
+        "Tolerance": 30.0
+    },
+    {
+        "Description": "\u0110CT H\u00e0 N\u1ed9i - H\u1ea3i Ph\u00f2ng, V\u0103n Giang, H\u01b0ng Y\u00ean",
+        "Exclusive": [],
+        "Fee": [],
+        "Highway": [
+            "CT HN-HP"
+        ],
+        "HighwayFee": {
+            "76": [
+                40,
+                60,
+                70,
+                110,
+                170
+            ],
+            "77": [
+                100,
+                130,
+                160,
+                260,
+                400
+            ],
+            "78": [
+                150,
+                200,
+                250,
+                400,
+                600
+            ],
+            "79": [
+                190,
+                250,
+                320,
+                510,
+                750
+            ],
+            "161": [
+                210,
+                280,
+                350,
+                560,
+                840
+            ]
+        },
+        "ID": 75,
+        "KM": "",
+        "Lat": 20.932086,
+        "Lng": 105.971247,
+        "MonthlyFee": [],
+        "Name": "Tr\u1ea1m thu ph\u00ed V\u0103n Giang (QL5B T1)",
+        "Province": "H\u01b0ng Y\u00ean",
+        "QuarterlyFee": [],
+        "Road": "QL5B",
+        "Tolerance": 30.0
+    },
+    {
+        "Description": "\u0110CT H\u00e0 N\u1ed9i - H\u1ea3i Ph\u00f2ng, L\u00fd Th\u01b0\u1eddng Ki\u1ec7t, Y\u00ean M\u1ef9, H\u01b0ng Y\u00ean",
+        "Exclusive": [],
+        "Fee": [],
+        "Highway": [
+            "CT HN-HP"
+        ],
+        "HighwayFee": {
+            "75": [
+                40,
+                60,
+                70,
+                110,
+                170
+            ],
+            "77": [
+                50,
+                70,
+                90,
+                150,
+                220
+            ],
+            "78": [
+                110,
+                140,
+                170,
+                280,
+                420
+            ],
+            "79": [
+                150,
+                200,
+                250,
+                400,
+                600
+            ],
+            "161": [
+                170,
+                220,
+                280,
+                450,
+                670
+            ]
+        },
+        "ID": 76,
+        "KM": "",
+        "Lat": 20.850088,
+        "Lng": 106.028136,
+        "MonthlyFee": [],
+        "Name": "Tr\u1ea1m thu ph\u00ed Y\u00ean M\u1ef9 (QL5B T2)",
+        "Province": "H\u01b0ng Y\u00ean",
+        "QuarterlyFee": [],
+        "Road": "QL5B",
+        "Tolerance": 30.0
+    },
+    {
+        "Description": "\u0110CT H\u00e0 N\u1ed9i - H\u1ea3i Ph\u00f2ng, tt. Gia L\u1ed9c, Gia L\u1ed9c, H\u1ea3i D\u01b0\u01a1ng",
+        "Exclusive": [],
+        "Fee": [],
+        "Highway": [
+            "CT HN-HP"
+        ],
+        "HighwayFee": {
+            "75": [
+                100,
+                130,
+                160,
+                260,
+                400
+            ],
+            "76": [
+                50,
+                70,
+                90,
+                150,
+                220
+            ],
+            "78": [
+                50,
+                70,
+                80,
+                130,
+                200
+            ],
+            "79": [
+                90,
+                120,
+                150,
+                250,
+                370
+            ],
+            "161": [
+                110,
+                150,
+                180,
+                300,
+                450
+            ]
+        },
+        "ID": 77,
+        "KM": "",
+        "Lat": 20.85683,
+        "Lng": 106.294362,
+        "MonthlyFee": [],
+        "Name": "Tr\u1ea1m thu ph\u00ed Gia L\u1ed9c (QL5B T3)",
+        "Province": "H\u1ea3i D\u01b0\u01a1ng",
+        "QuarterlyFee": [],
+        "Road": "QL5B",
+        "Tolerance": 30.0
+    },
+    {
+        "Description": "\u0110CT H\u00e0 N\u1ed9i - H\u1ea3i Ph\u00f2ng, Quang Trung, An L\u00e3o, H\u1ea3i Ph\u00f2ng",
+        "Exclusive": [],
+        "Fee": [],
+        "Highway": [
+            "CT HN-HP"
+        ],
+        "HighwayFee": {
+            "75": [
+                150,
+                200,
+                250,
+                400,
+                600
+            ],
+            "76": [
+                110,
+                140,
+                170,
+                280,
+                420
+            ],
+            "77": [
+                50,
+                70,
+                80,
+                130,
+                200
+            ],
+            "79": [
+                40,
+                60,
+                70,
+                110,
+                180
+            ],
+            "161": [
+                60,
+                80,
+                100,
+                170,
+                250
+            ]
+        },
+        "ID": 78,
+        "KM": "",
+        "Lat": 20.79932,
+        "Lng": 106.523099,
+        "MonthlyFee": [],
+        "Name": "Tr\u1ea1m thu ph\u00ed Ti\u00ean C\u1ef1u - An L\u00e3o (QL5B T4)",
+        "Province": "H\u1ea3i Ph\u00f2ng",
+        "QuarterlyFee": [],
+        "Road": "QL5B",
+        "Tolerance": 30.0
+    },
+    {
+        "Description": "\u0110CT H\u00e0 N\u1ed9i - H\u1ea3i Ph\u00f2ng, H\u1ee3p L\u1ec5, H\u00f2a Ngh\u0129a, D\u01b0\u01a1ng Kinh, H\u1ea3i Ph\u00f2ng",
+        "Exclusive": [],
+        "Fee": [],
+        "Highway": [
+            "CT HN-HP"
+        ],
+        "HighwayFee": {
+            "75": [
+                190,
+                250,
+                320,
+                510,
+                750
+            ],
+            "76": [
+                150,
+                200,
+                250,
+                400,
+                600
+            ],
+            "77": [
+                90,
+                120,
+                150,
+                250,
+                370
+            ],
+            "78": [
+                40,
+                60,
+                70,
+                110,
+                180
+            ],
+            "161": [
+                20,
+                25,
+                30,
+                50,
+                80
+            ]
+        },
+        "ID": 79,
+        "KM": "",
+        "Lat": 20.770555,
+        "Lng": 106.712723,
+        "MonthlyFee": [],
+        "Name": "Tr\u1ea1m thu ph\u00ed QL5B - T5",
+        "Province": "H\u1ea3i Ph\u00f2ng",
+        "QuarterlyFee": [],
+        "Road": "QL5B",
+        "Tolerance": 30.0
+    },
+    {
+        "Description": "\u0110CT H\u00e0 N\u1ed9i - B\u1eafc Giang (CT07), Ph\u00f9 Ch\u1ea9n, Tx. T\u1eeb S\u01a1n, B\u1eafc Ninh",
+        "Exclusive": [],
+        "Fee": [
+            35,
+            50,
+            75,
+            140,
+            200
+        ],
+        "Highway": [],
+        "HighwayFee": {},
+        "ID": 81,
+        "KM": "KM152+080",
+        "Lat": 21.090337,
+        "Lng": 105.960529,
+        "MonthlyFee": [
+            1050,
+            1500,
+            2250,
+            4200,
+            6000
+        ],
+        "Name": "Tr\u1ea1m Thu Ph\u00ed Cao t\u1ed1c H\u00e0 N\u1ed9i - B\u1eafc Giang",
+        "Province": "B\u1eafc Ninh",
+        "QuarterlyFee": [
+            2835,
+            4050,
+            6075,
+            11340,
+            16200
+        ],
+        "Road": "QL1A",
+        "Tolerance": 30.0
+    },
+    {
+        "Description": "\u0110CT TP H\u1ed3 Ch\u00ed Minh - Trung L\u01b0\u01a1ng",
+        "Exclusive": [],
+        "Fee": [],
+        "Highway": [
+            "CT HCM-TL"
+        ],
+        "HighwayFee": {
+            "83": [
+                10,
+                15,
+                22,
+                40,
+                80
+            ],
+            "84": [
+                25,
+                37,
+                55,
+                100,
+                200
+            ],
+            "85": [
+                40,
+                60,
+                88,
+                160,
+                320
+            ]
+        },
+        "ID": 82,
+        "KM": "",
+        "Lat": 10.681872,
+        "Lng": 106.557367,
+        "MonthlyFee": [],
+        "Name": "Tr\u1ea1m thu ph\u00ed CT HCM-TL Ch\u1ee3 \u0110\u1ec7m",
+        "Province": "TP HCM",
+        "QuarterlyFee": [],
+        "Road": "CT01",
+        "Tolerance": 30.0
+    },
+    {
+        "Description": "\u0110CT TP H\u1ed3 Ch\u00ed Minh - Trung L\u01b0\u01a1ng, An Th\u1ea1nh, B\u1ebfn L\u1ee9c, Long An",
+        "Exclusive": [],
+        "Fee": [],
+        "Highway": [
+            "CT HCM-TL"
+        ],
+        "HighwayFee": {
+            "82": [
+                10,
+                15,
+                22,
+                40,
+                80
+            ],
+            "84": [
+                15,
+                22,
+                33,
+                60,
+                120
+            ],
+            "85": [
+                30,
+                45,
+                66,
+                120,
+                240
+            ]
+        },
+        "ID": 83,
+        "KM": "",
+        "Lat": 10.656037,
+        "Lng": 106.473487,
+        "MonthlyFee": [],
+        "Name": "Tr\u1ea1m thu ph\u00ed CT HCM-TL B\u1ebfn L\u1ee9c",
+        "Province": "Long An",
+        "QuarterlyFee": [],
+        "Road": "CT01",
+        "Tolerance": 30.0
+    },
+    {
+        "Description": "\u0110CT TP H\u1ed3 Ch\u00ed Minh - Trung L\u01b0\u01a1ng, L\u1ee3i B\u00ecnh Nh\u01a1n, Tp. T\u00e2n An, Long An ",
+        "Exclusive": [],
+        "Fee": [],
+        "Highway": [
+            "CT HCM-TL"
+        ],
+        "HighwayFee": {
+            "82": [
+                25,
+                37,
+                55,
+                100,
+                200
+            ],
+            "83": [
+                15,
+                22,
+                33,
+                60,
+                120
+            ],
+            "85": [
+                15,
+                22,
+                33,
+                60,
+                120
+            ]
+        },
+        "ID": 84,
+        "KM": "",
+        "Lat": 10.547443,
+        "Lng": 106.372364,
+        "MonthlyFee": [],
+        "Name": "Tr\u1ea1m thu ph\u00ed CT HCM-TL T\u00e2n An",
+        "Province": "Long An",
+        "QuarterlyFee": [],
+        "Road": "CT01",
+        "Tolerance": 30.0
+    },
+    {
+        "Description": "\u0110CT TP H\u1ed3 Ch\u00ed Minh - Trung L\u01b0\u01a1ng, Tam Hi\u1ec7p, Ch\u00e2u Th\u00e0nh, Ti\u1ec1n Giang",
+        "Exclusive": [],
+        "Fee": [],
+        "Highway": [
+            "CT HCM-TL"
+        ],
+        "HighwayFee": {
+            "82": [
+                40,
+                60,
+                88,
+                160,
+                320
+            ],
+            "83": [
+                30,
+                45,
+                66,
+                120,
+                240
+            ],
+            "84": [
+                15,
+                22,
+                33,
+                60,
+                120
+            ]
+        },
+        "ID": 85,
+        "KM": "",
+        "Lat": 10.431019,
+        "Lng": 106.3157,
+        "MonthlyFee": [],
+        "Name": "Tr\u1ea1m thu ph\u00ed CT HCM-TL Th\u00e2n C\u1eedu Ngh\u0129a",
+        "Province": "Ti\u1ec1n Giang",
+        "QuarterlyFee": [],
+        "Road": "CT01",
+        "Tolerance": 30.0
+    },
+    {
+        "Description": "\u0110CT Long Th\u00e0nh - D\u1ea7u Gi\u00e2y",
+        "Exclusive": [],
+        "Fee": [],
+        "Highway": [
+            "CT LT-DG"
+        ],
+        "HighwayFee": {
+            "87": [
+                100,
+                150,
+                200,
+                240,
+                380
+            ],
+            "119": [
+                40,
+                60,
+                80,
+                100,
+                160
+            ]
+        },
+        "ID": 86,
+        "KM": "",
+        "Lat": 10.785752,
+        "Lng": 106.851765,
+        "MonthlyFee": [],
+        "Name": "Tr\u1ea1m thu ph\u00ed CT LT-DG Long Ph\u01b0\u1edbc",
+        "Province": "TP HCM",
+        "QuarterlyFee": [],
+        "Road": "CT01",
+        "Tolerance": 30.0
+    },
+    {
+        "Description": "\u0110CT Long Th\u00e0nh - D\u1ea7u Gi\u00e2y",
+        "Exclusive": [],
+        "Fee": [],
+        "Highway": [
+            "CT LT-DG"
+        ],
+        "HighwayFee": {
+            "86": [
+                100,
+                150,
+                200,
+                240,
+                380
+            ],
+            "118": [
+                60,
+                90,
+                120,
+                140,
+                220
+            ]
+        },
+        "ID": 87,
+        "KM": "",
+        "Lat": 10.918268,
+        "Lng": 107.163967,
+        "MonthlyFee": [],
+        "Name": "Tr\u1ea1m thu ph\u00ed CT LT-DG D\u1ea7u Gi\u00e2y",
+        "Province": "\u0110\u1ed3ng Nai",
+        "QuarterlyFee": [],
+        "Road": "CT01",
+        "Tolerance": 30.0
+    },
+    {
+        "Description": "\u0110\u01b0\u1eddng V\u00f5 V\u0103n Ki\u1ec7t, Ph\u00fa C\u01b0\u1eddng, S\u00f3c S\u01a1n, H\u00e0 N\u1ed9i",
+        "Exclusive": [],
+        "Fee": [
+            10,
+            15,
+            22,
+            40,
+            80
+        ],
+        "Highway": [],
+        "HighwayFee": {},
+        "ID": 88,
+        "KM": "",
+        "Lat": 21.203325,
+        "Lng": 105.779843,
+        "MonthlyFee": [
+            300,
+            450,
+            660,
+            1200,
+            2400
+        ],
+        "Name": "Tr\u1ea1m thu ph\u00ed CT B\u1eafc Th\u0103ng Long - N\u1ed9i B\u00e0i",
+        "Province": "H\u00e0 N\u1ed9i",
+        "QuarterlyFee": [
+            800,
+            1200,
+            1800,
+            3200,
+            6500
+        ],
+        "Road": "",
+        "Tolerance": 30.0
+    },
+    {
+        "Description": "\u0110CT Ph\u00e1p V\u00e2n - C\u1ea7u Gi\u1ebd, Li\u00ean Ninh, H\u00e0 N\u1ed9i",
+        "Exclusive": [],
+        "Fee": [],
+        "Highway": [
+            "CT PV-CG"
+        ],
+        "HighwayFee": {
+            "121": [
+                45,
+                60,
+                75,
+                115,
+                180
+            ],
+            "122": [
+                45,
+                60,
+                75,
+                110,
+                175
+            ],
+            "137": [
+                15,
+                25,
+                30,
+                40,
+                65
+            ],
+            "139": [
+                35,
+                50,
+                65,
+                80,
+                130
+            ]
+        },
+        "ID": 89,
+        "KM": "",
+        "Lat": 20.907444,
+        "Lng": 105.861236,
+        "MonthlyFee": [],
+        "Name": "Tr\u1ea1m thu ph\u00ed CT Ph\u00e1p V\u00e2n - C\u1ea7u Gi\u1ebd",
+        "Province": "H\u00e0 N\u1ed9i",
+        "QuarterlyFee": [],
+        "Road": "CT01",
+        "Tolerance": 30.0
+    },
+    {
+        "Description": "Ngh\u0129a Th\u01b0\u01a1ng, T\u01b0 Ngh\u0129a, Qu\u1ea3ng Ng\u00e3i",
+        "Exclusive": [],
+        "Fee": [
+            35,
+            50,
+            75,
+            120,
+            180
+        ],
+        "Highway": [],
+        "HighwayFee": {},
+        "ID": 90,
+        "KM": "Km1064+730",
+        "Lat": 15.063634,
+        "Lng": 108.839569,
+        "MonthlyFee": [
+            1050,
+            1500,
+            2250,
+            3600,
+            5400
+        ],
+        "Name": "Tr\u1ea1m thu ph\u00ed T\u01b0 Ngh\u0129a",
+        "Province": "Qu\u1ea3ng Ng\u00e3i",
+        "QuarterlyFee": [
+            2835,
+            4050,
+            6075,
+            9720,
+            14580
+        ],
+        "Road": "QL1A",
+        "Tolerance": 30.0
+    },
+    {
+        "Description": "Th\u1ee7y Ph\u00f9, Tx. H\u01b0\u01a1ng Th\u1ee7y, Th\u1eeba Thi\u00ean Hu\u1ebf ",
+        "Exclusive": [],
+        "Fee": [
+            35,
+            50,
+            75,
+            120,
+            180
+        ],
+        "Highway": [],
+        "HighwayFee": {},
+        "ID": 93,
+        "KM": "",
+        "Lat": 16.370427,
+        "Lng": 107.724851,
+        "MonthlyFee": [
+            1050,
+            1500,
+            2250,
+            3600,
+            5400
+        ],
+        "Name": "Tr\u1ea1m thu ph\u00ed Ph\u00fa B\u00e0i",
+        "Province": "Th\u1eeba Thi\u00ean Hu\u1ebf",
+        "QuarterlyFee": [
+            2835,
+            4050,
+            6075,
+            9720,
+            14580
+        ],
+        "Road": "QL1A",
+        "Tolerance": 30.0
+    },
+    {
+        "Description": "An Nh\u01a1n, B\u00ecnh \u0110\u1ecbnh",
+        "Exclusive": [],
+        "Fee": [
+            35,
+            50,
+            75,
+            120,
+            180
+        ],
+        "Highway": [],
+        "HighwayFee": {},
+        "ID": 94,
+        "KM": "KM1212+550",
+        "Lat": 13.871335,
+        "Lng": 109.125445,
+        "MonthlyFee": [
+            1050,
+            1500,
+            2250,
+            3600,
+            5400
+        ],
+        "Name": "Tr\u1ea1m thu ph\u00ed Nam B\u00ecnh \u0110\u1ecbnh",
+        "Province": "B\u00ecnh \u0110\u1ecbnh",
+        "QuarterlyFee": [
+            2835,
+            4050,
+            6075,
+            9720,
+            14580
+        ],
+        "Road": "QL1A",
+        "Tolerance": 30.0
+    },
+    {
+        "Description": "S\u00f4ng L\u0169y, B\u1eafc B\u00ecnh, B\u00ecnh Thu\u1eadn",
+        "Exclusive": [],
+        "Fee": [
+            35,
+            50,
+            75,
+            140,
+            200
+        ],
+        "Highway": [],
+        "HighwayFee": {},
+        "ID": 95,
+        "KM": "KM1661+600",
+        "Lat": 11.20358,
+        "Lng": 108.326271,
+        "MonthlyFee": [
+            1050,
+            1500,
+            2250,
+            4200,
+            6000
+        ],
+        "Name": "Tr\u1ea1m thu ph\u00ed S\u00f4ng L\u0169y",
+        "Province": "B\u00ecnh Thu\u1eadn",
+        "QuarterlyFee": [
+            2835,
+            4050,
+            6075,
+            11350,
+            16200
+        ],
+        "Road": "QL1A",
+        "Tolerance": 30.0
+    },
+    {
+        "Description": "B\u00ecnh Li\u00ean, T\u00e2y S\u01a1n, B\u00ecnh \u0110\u1ecbnh",
+        "Exclusive": [],
+        "Fee": [
+            35,
+            50,
+            75,
+            140,
+            200
+        ],
+        "Highway": [],
+        "HighwayFee": {},
+        "ID": 96,
+        "KM": "KM49+550",
+        "Lat": 13.94454,
+        "Lng": 108.857733,
+        "MonthlyFee": [
+            1050,
+            1500,
+            2250,
+            4200,
+            6000
+        ],
+        "Name": "Tr\u1ea1m thu ph\u00ed QL19 - B\u00ecnh \u0110\u1ecbnh",
+        "Province": "B\u00ecnh \u0110\u1ecbnh",
+        "QuarterlyFee": [
+            2835,
+            4050,
+            6075,
+            11340,
+            16200
+        ],
+        "Road": "QL19",
+        "Tolerance": 30.0
+    },
+    {
+        "Description": "Mang Yang, Gia Lai ",
+        "Exclusive": [],
+        "Fee": [
+            35,
+            50,
+            75,
+            140,
+            200
+        ],
+        "Highway": [],
+        "HighwayFee": {},
+        "ID": 97,
+        "KM": "KM124+720",
+        "Lat": 14.05463,
+        "Lng": 108.329608,
+        "MonthlyFee": [
+            1050,
+            1500,
+            2250,
+            4200,
+            6000
+        ],
+        "Name": "Tr\u1ea1m thu ph\u00ed QL19 - Gia Lai",
+        "Province": "Gia Lai",
+        "QuarterlyFee": [
+            2835,
+            4050,
+            6075,
+            11340,
+            16200
+        ],
+        "Road": "QL19",
+        "Tolerance": 30.0
+    },
+    {
+        "Description": "Ho\u00e0i \u0110\u1ee9c, Ho\u00e0i Nh\u01a1n, B\u00ecnh \u0110\u1ecbnh ",
+        "Exclusive": [],
+        "Fee": [
+            35,
+            50,
+            75,
+            120,
+            180
+        ],
+        "Highway": [],
+        "HighwayFee": {},
+        "ID": 98,
+        "KM": "KM1148+1300",
+        "Lat": 14.397167,
+        "Lng": 109.017848,
+        "MonthlyFee": [
+            1050,
+            1500,
+            2250,
+            3600,
+            5400
+        ],
+        "Name": "Tr\u1ea1m thu ph\u00ed B\u1eafc B\u00ecnh \u0110\u1ecbnh",
+        "Province": "B\u00ecnh \u0110\u1ecbnh",
+        "QuarterlyFee": [
+            2835,
+            4050,
+            6075,
+            9720,
+            14580
+        ],
+        "Road": "QL1A",
+        "Tolerance": 30.0
+    },
+    {
+        "Description": "An D\u00e2n, Tuy An, Ph\u00fa Y\u00ean",
+        "Exclusive": [],
+        "Fee": [
+            35,
+            50,
+            75,
+            120,
+            180
+        ],
+        "Highway": [],
+        "HighwayFee": {},
+        "ID": 99,
+        "KM": "KM1298+150",
+        "Lat": 13.349345,
+        "Lng": 109.208296,
+        "MonthlyFee": [
+            1050,
+            1500,
+            2250,
+            3600,
+            5400
+        ],
+        "Name": "Tr\u1ea1m thu ph\u00ed B\u00e0n Th\u1ea1ch - m\u1edbi",
+        "Province": "Ph\u00fa Y\u00ean",
+        "QuarterlyFee": [
+            2835,
+            4050,
+            6075,
+            9720,
+            14580
+        ],
+        "Road": "QL1A",
+        "Tolerance": 30.0
+    },
+    {
+        "Description": "Thanh Xu\u00e2n, S\u00f3c S\u01a1n, H\u00e0 N\u1ed9i",
+        "Exclusive": [
+            166,
+            165,
+            164,
+            25
+        ],
+        "Fee": [
+            15,
+            23,
+            33,
+            60,
+            120
+        ],
+        "Highway": [],
+        "HighwayFee": {},
+        "ID": 101,
+        "KM": "KM26+200",
+        "Lat": 21.238941,
+        "Lng": 105.741633,
+        "MonthlyFee": [
+            450,
+            690,
+            990,
+            1800,
+            3600
+        ],
+        "Name": "Tr\u1ea1m thu ph\u00ed T\u00e2n D\u00e2n",
+        "Province": "H\u00e0 N\u1ed9i",
+        "QuarterlyFee": [
+            1200,
+            1800,
+            2700,
+            4800,
+            9750
+        ],
+        "Road": "QL2A",
+        "Tolerance": 30.0
+    },
+    {
+        "Description": "N\u00e2m N'Jang, \u0110\u1eafk Song, \u0110\u1eafk N\u00f4ng",
+        "Exclusive": [],
+        "Fee": [
+            35,
+            50,
+            75,
+            140,
+            200
+        ],
+        "Highway": [],
+        "HighwayFee": {},
+        "ID": 102,
+        "KM": "KM1945+400",
+        "Lat": 12.188385,
+        "Lng": 107.637617,
+        "MonthlyFee": [
+            1050,
+            1500,
+            2250,
+            4200,
+            6000
+        ],
+        "Name": "Tr\u1ea1m thu ph\u00ed N\u00e2m N'Jang",
+        "Province": "\u0110\u1eafk N\u00f4ng",
+        "QuarterlyFee": [
+            2835,
+            4050,
+            6075,
+            11340,
+            16200
+        ],
+        "Road": "QL14",
+        "Tolerance": 30.0
+    },
+    {
+        "Description": "H\u00f9ng V\u01b0\u01a1ng, Tx. Bu\u00f4n H\u1ed3, \u0110\u1eafk L\u1eafk",
+        "Exclusive": [],
+        "Fee": [
+            35,
+            50,
+            75,
+            140,
+            200
+        ],
+        "Highway": [],
+        "HighwayFee": {},
+        "ID": 103,
+        "KM": "KM1747",
+        "Lat": 12.830979,
+        "Lng": 108.24797,
+        "MonthlyFee": [
+            1050,
+            1500,
+            2250,
+            4200,
+            6000
+        ],
+        "Name": "Tr\u1ea1m thu ph\u00ed Quang \u0110\u1ee9c",
+        "Province": "\u0110\u1eafk L\u1eafk",
+        "QuarterlyFee": [
+            2835,
+            4050,
+            6075,
+            11340,
+            16200
+        ],
+        "Road": "QL14",
+        "Tolerance": 30.0
+    },
+    {
+        "Description": "Th\u00e0nh T\u00e2m, Ch\u01a1n Th\u00e0nh, B\u00ecnh Ph\u01b0\u1edbc",
+        "Exclusive": [],
+        "Fee": [
+            20,
+            25,
+            35,
+            60,
+            90
+        ],
+        "Highway": [],
+        "HighwayFee": {},
+        "ID": 104,
+        "KM": "KM62+700",
+        "Lat": 11.363903,
+        "Lng": 106.627633,
+        "MonthlyFee": [
+            540,
+            680,
+            1000,
+            1600,
+            2400
+        ],
+        "Name": "Tr\u1ea1m thu ph\u00ed QL13-BP",
+        "Province": "B\u00ecnh Ph\u01b0\u1edbc",
+        "QuarterlyFee": [
+            1600,
+            1850,
+            2700,
+            4300,
+            6400
+        ],
+        "Road": "QL13",
+        "Tolerance": 30.0
+    },
+    {
+        "Description": "T\u00e2n Khai, H\u1edbn Qu\u1ea3n, B\u00ecnh Ph\u01b0\u1edbc",
+        "Exclusive": [],
+        "Fee": [
+            20,
+            25,
+            35,
+            60,
+            90
+        ],
+        "Highway": [],
+        "HighwayFee": {},
+        "ID": 105,
+        "KM": "KM95",
+        "Lat": 11.569887,
+        "Lng": 106.617271,
+        "MonthlyFee": [
+            540,
+            680,
+            1000,
+            1600,
+            2400
+        ],
+        "Name": "Tr\u1ea1m thu ph\u00ed T\u00e2n Khai",
+        "Province": "B\u00ecnh Ph\u01b0\u1edbc",
+        "QuarterlyFee": [
+            1600,
+            1850,
+            2700,
+            4300,
+            6400
+        ],
+        "Road": "QL13",
+        "Tolerance": 30.0
+    },
+    {
+        "Description": "M\u1ef9 L\u1ee3i B, Huy\u1ec7n Th\u00e1p M\u01b0\u1eddi, \u0110\u1ed3ng Th\u00e1p",
+        "Exclusive": [],
+        "Fee": [
+            20,
+            20,
+            25,
+            0,
+            0
+        ],
+        "Highway": [],
+        "HighwayFee": {},
+        "ID": 106,
+        "KM": "",
+        "Lat": 10.408407,
+        "Lng": 105.859566,
+        "MonthlyFee": [],
+        "Name": "Tr\u1ea1m thu ph\u00ed c\u1ea7u Thanh M\u1ef9",
+        "Province": "\u0110\u1ed3ng Th\u00e1p",
+        "QuarterlyFee": [],
+        "Road": "",
+        "Tolerance": 30.0
+    },
+    {
+        "Description": "\u0110\u01b0\u1eddng \u0110\u1ed3ng Kh\u1edfi, T\u00e2n Phong, Bi\u00ean H\u00f2a, \u0110\u1ed3ng Nai",
+        "Exclusive": [],
+        "Fee": [
+            15,
+            22,
+            33,
+            60,
+            120
+        ],
+        "Highway": [],
+        "HighwayFee": {},
+        "ID": 108,
+        "KM": "",
+        "Lat": 10.98033,
+        "Lng": 106.847683,
+        "MonthlyFee": [],
+        "Name": "Tr\u1ea1m thu ph\u00ed 2b (\u0110T768)",
+        "Province": "\u0110\u1ed3ng Nai",
+        "QuarterlyFee": [],
+        "Road": "\u0110T768",
+        "Tolerance": 30.0
+    },
+    {
+        "Description": "\u1ea4p 3, X\u00e3 T\u00e2n L\u1eadp, Huy\u1ec7n \u0110\u1ed3ng Ph\u00fa, T\u1ec9nh B\u00ecnh Ph\u01b0\u1edbc",
+        "Exclusive": [],
+        "Fee": [
+            15,
+            25,
+            35,
+            60,
+            90
+        ],
+        "Highway": [],
+        "HighwayFee": {},
+        "ID": 109,
+        "KM": "",
+        "Lat": 11.388181,
+        "Lng": 106.825548,
+        "MonthlyFee": [
+            400,
+            680,
+            1000,
+            1600,
+            2400
+        ],
+        "Name": "Tr\u1ea1m thu ph\u00ed T\u00e2n L\u1eadp (\u0110T741)",
+        "Province": "B\u00ecnh Ph\u01b0\u1edbc",
+        "QuarterlyFee": [
+            1000,
+            1850,
+            2700,
+            4300,
+            6400
+        ],
+        "Road": "\u0110T741",
+        "Tolerance": 30.0
+    },
+    {
+        "Description": "Ph\u01b0\u1edbc Ho\u00e0, Ph\u00fa Gi\u00e1o, B\u00ecnh D\u01b0\u01a1ng",
+        "Exclusive": [],
+        "Fee": [
+            15,
+            40,
+            50,
+            80,
+            100
+        ],
+        "Highway": [],
+        "HighwayFee": {},
+        "ID": 110,
+        "KM": "KM25+500",
+        "Lat": 11.221833,
+        "Lng": 106.725255,
+        "MonthlyFee": [],
+        "Name": "Tr\u1ea1m thu ph\u00ed s\u1ed1 1 (\u0110T741)",
+        "Province": "B\u00ecnh D\u01b0\u01a1ng",
+        "QuarterlyFee": [],
+        "Road": "\u0110T741",
+        "Tolerance": 30.0
+    },
+    {
+        "Description": "Tx. \u0110\u1ed3ng Xo\u00e0i, B\u00ecnh Ph\u01b0\u1edbc",
+        "Exclusive": [],
+        "Fee": [
+            20,
+            25,
+            35,
+            60,
+            90
+        ],
+        "Highway": [],
+        "HighwayFee": {},
+        "ID": 111,
+        "KM": "",
+        "Lat": 11.577405,
+        "Lng": 106.894408,
+        "MonthlyFee": [
+            540,
+            680,
+            1000,
+            1600,
+            2400
+        ],
+        "Name": "Tr\u1ea1m thu ph\u00ed Thu\u1eadn Ph\u00fa (\u0110T741)",
+        "Province": "B\u00ecnh Ph\u01b0\u1edbc",
+        "QuarterlyFee": [
+            1600,
+            1850,
+            2700,
+            4300,
+            6400
+        ],
+        "Road": "\u0110T741",
+        "Tolerance": 30.0
+    },
+    {
+        "Description": "Tx. Ph\u01b0\u1edbc Long, B\u00ecnh Ph\u01b0\u1edbc",
+        "Exclusive": [],
+        "Fee": [
+            20,
+            25,
+            35,
+            60,
+            90
+        ],
+        "Highway": [],
+        "HighwayFee": {},
+        "ID": 112,
+        "KM": "",
+        "Lat": 11.72759,
+        "Lng": 106.875053,
+        "MonthlyFee": [
+            540,
+            680,
+            1000,
+            1600,
+            2400
+        ],
+        "Name": "Tr\u1ea1m thu ph\u00ed B\u00f9 Nho (\u0110T741)",
+        "Province": "B\u00ecnh Ph\u01b0\u1edbc",
+        "QuarterlyFee": [
+            1600,
+            1850,
+            2700,
+            4300,
+            6400
+        ],
+        "Road": "\u0110T741",
+        "Tolerance": 30.0
+    },
+    {
+        "Description": "Uy\u00ean H\u01b0ng, T\u00e2n Uy\u00ean, B\u00ecnh D\u01b0\u01a1ng ",
+        "Exclusive": [],
+        "Fee": [
+            10,
+            10,
+            20,
+            20,
+            20
+        ],
+        "Highway": [],
+        "HighwayFee": {},
+        "ID": 113,
+        "KM": "",
+        "Lat": 11.07278,
+        "Lng": 106.789312,
+        "MonthlyFee": [],
+        "Name": "Tr\u1ea1m thu ph\u00ed Uy\u00ean H\u01b0ng (\u0110T747)",
+        "Province": "B\u00ecnh D\u01b0\u01a1ng",
+        "QuarterlyFee": [],
+        "Road": "\u0110T747",
+        "Tolerance": 30.0
+    },
+    {
+        "Description": "Kh\u00e1nh B\u00ecnh, T\u00e2n Uy\u00ean, B\u00ecnh D\u01b0\u01a1ng",
+        "Exclusive": [],
+        "Fee": [
+            10,
+            10,
+            20,
+            20,
+            20
+        ],
+        "Highway": [],
+        "HighwayFee": {},
+        "ID": 114,
+        "KM": "",
+        "Lat": 11.027489,
+        "Lng": 106.774885,
+        "MonthlyFee": [],
+        "Name": "Tr\u1ea1m thu ph\u00ed Kh\u00e1nh B\u00ecnh (\u0110T747)",
+        "Province": "B\u00ecnh D\u01b0\u01a1ng",
+        "QuarterlyFee": [],
+        "Road": "\u0110T747",
+        "Tolerance": 30.0
+    },
+    {
+        "Description": "Th\u00e1i H\u00f2a, T\u00e2n Uy\u00ean, B\u00ecnh D\u01b0\u01a1ng",
+        "Exclusive": [],
+        "Fee": [
+            10,
+            10,
+            20,
+            20,
+            20
+        ],
+        "Highway": [],
+        "HighwayFee": {},
+        "ID": 115,
+        "KM": "",
+        "Lat": 10.974003,
+        "Lng": 106.771193,
+        "MonthlyFee": [],
+        "Name": "Tr\u1ea1m thu ph\u00ed T\u00e2n Ba (\u0110T747)",
+        "Province": "B\u00ecnh D\u01b0\u01a1ng",
+        "QuarterlyFee": [],
+        "Road": "\u0110T743",
+        "Tolerance": 30.0
+    },
+    {
+        "Description": "T\u00e2n H\u1ea1nh, Tp. Bi\u00ean H\u00f2a, \u0110\u1ed3ng Nai",
+        "Exclusive": [],
+        "Fee": [
+            10,
+            15,
+            20,
+            40,
+            60
+        ],
+        "Highway": [],
+        "HighwayFee": {},
+        "ID": 116,
+        "KM": "",
+        "Lat": 10.959793,
+        "Lng": 106.781289,
+        "MonthlyFee": [],
+        "Name": "Tr\u1ea1m thu ph\u00ed t\u1ec9nh l\u1ed9 16 T1",
+        "Province": "\u0110\u1ed3ng Nai",
+        "QuarterlyFee": [],
+        "Road": "",
+        "Tolerance": 30.0
+    },
+    {
+        "Description": "tt. Long Th\u00e0nh, Long Th\u00e0nh, \u0110\u1ed3ng Nai",
+        "Exclusive": [],
+        "Fee": [],
+        "Highway": [
+            "CT LT-DG"
+        ],
+        "HighwayFee": {
+            "87": [
+                60,
+                90,
+                120,
+                140,
+                220
+            ]
+        },
+        "ID": 117,
+        "KM": "",
+        "Lat": 10.765092,
+        "Lng": 106.96186,
+        "MonthlyFee": [],
+        "Name": "Tr\u1ea1m thu ph\u00ed CT LT-DG QL51 - East - South",
+        "Province": "\u0110\u1ed3ng Nai",
+        "QuarterlyFee": [],
+        "Road": "CT01",
+        "Tolerance": 10.0
+    },
+    {
+        "Description": "tt. Long Th\u00e0nh, Long Th\u00e0nh, \u0110\u1ed3ng Nai",
+        "Exclusive": [],
+        "Fee": [],
+        "Highway": [
+            "CT LT-DG"
+        ],
+        "HighwayFee": {},
+        "ID": 118,
+        "KM": "",
+        "Lat": 10.765649,
+        "Lng": 106.961644,
+        "MonthlyFee": [],
+        "Name": "Tr\u1ea1m thu ph\u00ed CT LT-DG QL51 - East - North",
+        "Province": "\u0110\u1ed3ng Nai",
+        "QuarterlyFee": [],
+        "Road": "CT01",
+        "Tolerance": 10.0
+    },
+    {
+        "Description": "tt. Long Th\u00e0nh, Long Th\u00e0nh, \u0110\u1ed3ng Nai",
+        "Exclusive": [],
+        "Fee": [],
+        "Highway": [
+            "CT LT-DG"
+        ],
+        "HighwayFee": {},
+        "ID": 119,
+        "KM": "",
+        "Lat": 10.765191,
+        "Lng": 106.956611,
+        "MonthlyFee": [],
+        "Name": "Tr\u1ea1m thu ph\u00ed CT LT-DG QL51 - West - South",
+        "Province": "\u0110\u1ed3ng Nai",
+        "QuarterlyFee": [],
+        "Road": "",
+        "Tolerance": 10.0
+    },
+    {
+        "Description": "tt. Long Th\u00e0nh, Long Th\u00e0nh, \u0110\u1ed3ng Nai",
+        "Exclusive": [],
+        "Fee": [],
+        "Highway": [
+            "CT LT-DG"
+        ],
+        "HighwayFee": {
+            "86": [
+                40,
+                60,
+                80,
+                100,
+                160
+            ]
+        },
+        "ID": 120,
+        "KM": "",
+        "Lat": 10.765813,
+        "Lng": 106.956361,
+        "MonthlyFee": [],
+        "Name": "Tr\u1ea1m thu ph\u00ed CT LT-DG QL51 - West - North",
+        "Province": "\u0110\u1ed3ng Nai",
+        "QuarterlyFee": [],
+        "Road": "",
+        "Tolerance": 10.0
+    },
+    {
+        "Description": "\u0110\u1ea1i Xuy\u00ean, Ph\u00fa Xuy\u00ean, H\u00e0 N\u1ed9i",
+        "Exclusive": [],
+        "Fee": [],
+        "Highway": [
+            "CT CG-NB"
+        ],
+        "HighwayFee": {
+            "89": [
+                45,
+                60,
+                75,
+                115,
+                180
+            ],
+            "140": [
+                10,
+                20,
+                25,
+                30,
+                50
+            ],
+            "144": [
+                30,
+                45,
+                60,
+                75,
+                120
+            ]
+        },
+        "ID": 121,
+        "KM": "",
+        "Lat": 20.702017,
+        "Lng": 105.912622,
+        "MonthlyFee": [],
+        "Name": "Tr\u1ea1m thu ph\u00ed \u0110\u1ea1i Xuy\u00ean - T1 - N\u00fat giao C\u1ea7u Gi\u1ebd",
+        "Province": "H\u00e0 N\u1ed9i",
+        "QuarterlyFee": [],
+        "Road": "",
+        "Tolerance": 30.0
+    },
+    {
+        "Description": "\u0110\u1ea1i Xuy\u00ean, Ph\u00fa Xuy\u00ean, H\u00e0 N\u1ed9i",
+        "Exclusive": [],
+        "Fee": [],
+        "Highway": [
+            "CT PV-CG",
+            "CT CG-NB"
+        ],
+        "HighwayFee": {
+            "125": [
+                15,
+                20,
+                30,
+                35,
+                60
+            ],
+            "131": [
+                30,
+                40,
+                60,
+                75,
+                120
+            ],
+            "133": [
+                70,
+                100,
+                140,
+                175,
+                280
+            ]
+        },
+        "ID": 122,
+        "KM": "",
+        "Lat": 20.701146,
+        "Lng": 105.919565,
+        "MonthlyFee": [],
+        "Name": "Tr\u1ea1m thu ph\u00ed \u0110\u1ea1i Xuy\u00ean - T2",
+        "Province": "H\u00e0 N\u1ed9i",
+        "QuarterlyFee": [],
+        "Road": "",
+        "Tolerance": 10.0
+    },
+    {
+        "Description": "\u0110\u1ea1i Xuy\u00ean, Ph\u00fa Xuy\u00ean, H\u00e0 N\u1ed9i",
+        "Exclusive": [],
+        "Fee": [],
+        "Highway": [
+            "CT PV-CG",
+            "CT CG-NB"
+        ],
+        "HighwayFee": {
+            "89": [
+                45,
+                60,
+                75,
+                110,
+                175
+            ],
+            "140": [
+                10,
+                15,
+                20,
+                25,
+                40
+            ],
+            "144": [
+                30,
+                40,
+                55,
+                70,
+                110
+            ]
+        },
+        "ID": 123,
+        "KM": "",
+        "Lat": 20.70104,
+        "Lng": 105.919893,
+        "MonthlyFee": [],
+        "Name": "Tr\u1ea1m thu ph\u00ed \u0110\u1ea1i Xuy\u00ean - T3",
+        "Province": "H\u00e0 N\u1ed9i",
+        "QuarterlyFee": [],
+        "Road": "",
+        "Tolerance": 10.0
+    },
+    {
+        "Description": "Y\u00ean B\u1eafc, Duy Ti\u00ean, H\u00e0 Nam",
+        "Exclusive": [],
+        "Fee": [],
+        "Highway": [
+            "CT CG-NB"
+        ],
+        "HighwayFee": {},
+        "ID": 125,
+        "KM": "",
+        "Lat": 20.647492,
+        "Lng": 105.937949,
+        "MonthlyFee": [],
+        "Name": "Tr\u1ea1m thu ph\u00ed V\u1ef1c V\u00f2ng - T1",
+        "Province": "H\u00e0 Nam",
+        "QuarterlyFee": [],
+        "Road": "",
+        "Tolerance": 10.0
+    },
+    {
+        "Description": "Y\u00ean B\u1eafc, Duy Ti\u00ean, H\u00e0 Nam",
+        "Exclusive": [],
+        "Fee": [],
+        "Highway": [
+            "CT CG-NB"
+        ],
+        "HighwayFee": {
+            "123": [
+                15,
+                20,
+                30,
+                35,
+                60
+            ]
+        },
+        "ID": 126,
+        "KM": "",
+        "Lat": 20.647993,
+        "Lng": 105.938591,
+        "MonthlyFee": [],
+        "Name": "Tr\u1ea1m thu ph\u00ed V\u1ef1c V\u00f2ng - T2",
+        "Province": "H\u00e0 Nam",
+        "QuarterlyFee": [],
+        "Road": "",
+        "Tolerance": 10.0
+    },
+    {
+        "Description": "Y\u00ean B\u1eafc, Duy Ti\u00ean, H\u00e0 Nam",
+        "Exclusive": [],
+        "Fee": [],
+        "Highway": [
+            "CT CG-NB"
+        ],
+        "HighwayFee": {
+            "131": [
+                20,
+                30,
+                40,
+                50,
+                80
+            ],
+            "133": [
+                60,
+                90,
+                120,
+                150,
+                240
+            ]
+        },
+        "ID": 127,
+        "KM": "",
+        "Lat": 20.645363,
+        "Lng": 105.93849,
+        "MonthlyFee": [],
+        "Name": "Tr\u1ea1m thu ph\u00ed V\u1ef1c V\u00f2ng - T3",
+        "Province": "H\u00e0 Nam",
+        "QuarterlyFee": [],
+        "Road": "",
+        "Tolerance": 10.0
+    },
+    {
+        "Description": "Y\u00ean B\u1eafc, Duy Ti\u00ean, H\u00e0 Nam",
+        "Exclusive": [],
+        "Fee": [],
+        "Highway": [
+            "CT CG-NB"
+        ],
+        "HighwayFee": {},
+        "ID": 128,
+        "KM": "",
+        "Lat": 20.645709,
+        "Lng": 105.939157,
+        "MonthlyFee": [],
+        "Name": "Tr\u1ea1m thu ph\u00ed V\u1ef1c V\u00f2ng - T4",
+        "Province": "H\u00e0 Nam",
+        "QuarterlyFee": [],
+        "Road": "",
+        "Tolerance": 10.0
+    },
+    {
+        "Description": "Li\u00eam Ch\u00ednh, Ph\u1ee7 L\u00fd, H\u00e0 Nam",
+        "Exclusive": [],
+        "Fee": [],
+        "Highway": [
+            "CT CG-NB"
+        ],
+        "HighwayFee": {
+            "133": [
+                45,
+                65,
+                90,
+                110,
+                180
+            ]
+        },
+        "ID": 129,
+        "KM": "",
+        "Lat": 20.53801,
+        "Lng": 105.947659,
+        "MonthlyFee": [],
+        "Name": "Tr\u1ea1m thu ph\u00ed Li\u00eam Tuy\u1ec1n - WS",
+        "Province": "H\u00e0 Nam",
+        "QuarterlyFee": [],
+        "Road": "",
+        "Tolerance": 10.0
+    },
+    {
+        "Description": "Li\u00eam Ch\u00ednh, Ph\u1ee7 L\u00fd, H\u00e0 Nam",
+        "Exclusive": [],
+        "Fee": [],
+        "Highway": [
+            "CT CG-NB"
+        ],
+        "HighwayFee": {},
+        "ID": 130,
+        "KM": "",
+        "Lat": 20.53803,
+        "Lng": 105.948329,
+        "MonthlyFee": [],
+        "Name": "Tr\u1ea1m thu ph\u00ed Li\u00eam Tuy\u1ec1n - ES",
+        "Province": "H\u00e0 Nam",
+        "QuarterlyFee": [],
+        "Road": "",
+        "Tolerance": 10.0
+    },
+    {
+        "Description": "Ti\u00ean H\u1ea3i, Duy Ti\u00ean, H\u00e0 Nam ",
+        "Exclusive": [],
+        "Fee": [],
+        "Highway": [
+            "CT CG-NB"
+        ],
+        "HighwayFee": {},
+        "ID": 131,
+        "KM": "",
+        "Lat": 20.540019,
+        "Lng": 105.947545,
+        "MonthlyFee": [],
+        "Name": "Tr\u1ea1m thu ph\u00ed Li\u00eam Tuy\u1ec1n - WN",
+        "Province": "H\u00e0 Nam",
+        "QuarterlyFee": [],
+        "Road": "",
+        "Tolerance": 10.0
+    },
+    {
+        "Description": "Ti\u00ean H\u1ea3i, Duy Ti\u00ean, H\u00e0 Nam ",
+        "Exclusive": [],
+        "Fee": [],
+        "Highway": [
+            "CT CG-NB"
+        ],
+        "HighwayFee": {
+            "123": [
+                30,
+                40,
+                60,
+                75,
+                120
+            ],
+            "128": [
+                20,
+                30,
+                40,
+                50,
+                80
+            ]
+        },
+        "ID": 132,
+        "KM": "",
+        "Lat": 20.540016,
+        "Lng": 105.948329,
+        "MonthlyFee": [],
+        "Name": "Tr\u1ea1m thu ph\u00ed Li\u00eam Tuy\u1ec1n - EN",
+        "Province": "H\u00e0 Nam",
+        "QuarterlyFee": [],
+        "Road": "",
+        "Tolerance": 10.0
+    },
+    {
+        "Description": "\u0110CT C\u1ea7u Gi\u1ebd - Ninh B\u00ecnh, Y\u00ean H\u1ed3ng, \u00dd Y\u00ean, Nam \u0110\u1ecbnh",
+        "Exclusive": [],
+        "Fee": [],
+        "Highway": [
+            "CT CG-NB"
+        ],
+        "HighwayFee": {},
+        "ID": 133,
+        "KM": "",
+        "Lat": 20.288134,
+        "Lng": 106.01259,
+        "MonthlyFee": [],
+        "Name": "Tr\u1ea1m thu ph\u00ed Cao B\u1ed3 - T1",
+        "Province": "Nam \u0110\u1ecbnh",
+        "QuarterlyFee": [],
+        "Road": "",
+        "Tolerance": 10.0
+    },
+    {
+        "Description": "\u0110CT C\u1ea7u Gi\u1ebd - Ninh B\u00ecnh, Y\u00ean H\u1ed3ng, \u00dd Y\u00ean, Nam \u0110\u1ecbnh",
+        "Exclusive": [],
+        "Fee": [],
+        "Highway": [
+            "CT CG-NB"
+        ],
+        "HighwayFee": {
+            "123": [
+                70,
+                100,
+                140,
+                175,
+                280
+            ],
+            "128": [
+                60,
+                90,
+                120,
+                150,
+                240
+            ],
+            "130": [
+                45,
+                65,
+                90,
+                110,
+                180
+            ]
+        },
+        "ID": 134,
+        "KM": "",
+        "Lat": 20.288703,
+        "Lng": 106.014278,
+        "MonthlyFee": [],
+        "Name": "Tr\u1ea1m thu ph\u00ed Cao B\u1ed3 - T2",
+        "Province": "Nam \u0110\u1ecbnh",
+        "QuarterlyFee": [],
+        "Road": "",
+        "Tolerance": 10.0
+    },
+    {
+        "Description": "V\u0103n Ph\u00fa, Th\u01b0\u1eddng T\u00edn, H\u00e0 N\u1ed9i",
+        "Exclusive": [],
+        "Fee": [],
+        "Highway": [
+            "CT PV-CG"
+        ],
+        "HighwayFee": {
+            "122": [
+                30,
+                40,
+                55,
+                70,
+                110
+            ],
+            "139": [
+                15,
+                25,
+                35,
+                40,
+                70
+            ]
+        },
+        "ID": 137,
+        "KM": "",
+        "Lat": 20.871915,
+        "Lng": 105.877492,
+        "MonthlyFee": [],
+        "Name": "Tr\u1ea1m thu ph\u00ed V\u0103n Ph\u00fa - Th\u01b0\u1eddng T\u00edn",
+        "Province": "H\u00e0 N\u1ed9i",
+        "QuarterlyFee": [],
+        "Road": "",
+        "Tolerance": 30.0
+    },
+    {
+        "Description": "Minh C\u01b0\u1eddng, Th\u01b0\u1eddng T\u00edn, H\u00e0 N\u1ed9i ",
+        "Exclusive": [],
+        "Fee": [],
+        "Highway": [
+            "CT PV-CG"
+        ],
+        "HighwayFee": {
+            "89": [
+                35,
+                50,
+                65,
+                80,
+                130
+            ],
+            "144": [
+                15,
+                25,
+                35,
+                40,
+                70
+            ]
+        },
+        "ID": 138,
+        "KM": "",
+        "Lat": 20.77407,
+        "Lng": 105.907711,
+        "MonthlyFee": [],
+        "Name": "Tr\u1ea1m thu ph\u00ed V\u1ea1n \u0110i\u1ec3m - NE",
+        "Province": "H\u00e0 N\u1ed9i",
+        "QuarterlyFee": [],
+        "Road": "",
+        "Tolerance": 10.0
+    },
+    {
+        "Description": "Minh C\u01b0\u1eddng, Th\u01b0\u1eddng T\u00edn, H\u00e0 N\u1ed9i ",
+        "Exclusive": [],
+        "Fee": [],
+        "Highway": [
+            "CT PV-CG"
+        ],
+        "HighwayFee": {},
+        "ID": 139,
+        "KM": "",
+        "Lat": 20.773818,
+        "Lng": 105.907342,
+        "MonthlyFee": [],
+        "Name": "Tr\u1ea1m thu ph\u00ed V\u1ea1n \u0110i\u1ec3m - NW",
+        "Province": "H\u00e0 N\u1ed9i",
+        "QuarterlyFee": [],
+        "Road": "",
+        "Tolerance": 10.0
+    },
+    {
+        "Description": "Minh C\u01b0\u1eddng, Th\u01b0\u1eddng T\u00edn, H\u00e0 N\u1ed9i ",
+        "Exclusive": [],
+        "Fee": [],
+        "Highway": [
+            "CT PV-CG"
+        ],
+        "HighwayFee": {},
+        "ID": 140,
+        "KM": "",
+        "Lat": 20.771842,
+        "Lng": 105.909178,
+        "MonthlyFee": [],
+        "Name": "Tr\u1ea1m thu ph\u00ed V\u1ea1n \u0110i\u1ec3m - SE",
+        "Province": "H\u00e0 N\u1ed9i",
+        "QuarterlyFee": [],
+        "Road": "",
+        "Tolerance": 10.0
+    },
+    {
+        "Description": "Minh C\u01b0\u1eddng, Th\u01b0\u1eddng T\u00edn, H\u00e0 N\u1ed9i ",
+        "Exclusive": [],
+        "Fee": [],
+        "Highway": [
+            "CT PV-CG"
+        ],
+        "HighwayFee": {
+            "121": [
+                10,
+                20,
+                25,
+                30,
+                50
+            ],
+            "122": [
+                10,
+                15,
+                20,
+                25,
+                40
+            ]
+        },
+        "ID": 141,
+        "KM": "",
+        "Lat": 20.771589,
+        "Lng": 105.908771,
+        "MonthlyFee": [],
+        "Name": "Tr\u1ea1m thu ph\u00ed V\u1ea1n \u0110i\u1ec3m - SW",
+        "Province": "H\u00e0 N\u1ed9i",
+        "QuarterlyFee": [],
+        "Road": "",
+        "Tolerance": 10.0
+    },
+    {
+        "Description": "Duy Minh, Duy Ti\u00ean, H\u00e0 Nam ",
+        "Exclusive": [],
+        "Fee": [
+            25,
+            40,
+            60,
+            75,
+            120
+        ],
+        "Highway": [],
+        "HighwayFee": {},
+        "ID": 142,
+        "KM": "",
+        "Lat": 20.665137,
+        "Lng": 105.916641,
+        "MonthlyFee": [
+            750,
+            1200,
+            1800,
+            2250,
+            3600
+        ],
+        "Name": "Tr\u1ea1m thu ph\u00ed Nam C\u1ea7u Gi\u1ebd",
+        "Province": "H\u00e0 Nam",
+        "QuarterlyFee": [
+            2025,
+            3240,
+            4860,
+            6075,
+            9720
+        ],
+        "Road": "",
+        "Tolerance": 30.0
+    },
+    {
+        "Description": "Li\u00ean \u0110\u1ea7m, Di Linh, L\u00e2m \u0110\u1ed3ng ",
+        "Exclusive": [],
+        "Fee": [
+            35,
+            50,
+            75,
+            120,
+            180
+        ],
+        "Highway": [],
+        "HighwayFee": {},
+        "ID": 143,
+        "KM": "",
+        "Lat": 11.566494,
+        "Lng": 107.998818,
+        "MonthlyFee": [
+            1050,
+            1500,
+            2250,
+            3600,
+            5400
+        ],
+        "Name": "Tr\u1ea1m thu ph\u00ed Li\u00ean \u0110\u1ea7m",
+        "Province": "L\u00e2m \u0110\u1ed3ng",
+        "QuarterlyFee": [
+            2835,
+            4050,
+            6075,
+            9720,
+            14580
+        ],
+        "Road": "QL20",
+        "Tolerance": 30.0
+    },
+    {
+        "Description": "V\u0103n Ph\u00fa, Th\u01b0\u1eddng T\u00edn, H\u00e0 N\u1ed9i",
+        "Exclusive": [],
+        "Fee": [],
+        "Highway": [
+            "CT PV-CG"
+        ],
+        "HighwayFee": {
+            "89": [
+                15,
+                25,
+                30,
+                40,
+                65
+            ],
+            "121": [
+                30,
+                45,
+                60,
+                75,
+                120
+            ]
+        },
+        "ID": 144,
+        "KM": "",
+        "Lat": 20.86879,
+        "Lng": 105.881751,
+        "MonthlyFee": [],
+        "Name": "Tr\u1ea1m thu ph\u00ed Th\u01b0\u1eddng T\u00edn",
+        "Province": "H\u00e0 N\u1ed9i",
+        "QuarterlyFee": [],
+        "Road": "",
+        "Tolerance": 30.0
+    },
+    {
+        "Description": "S\u01a1n C\u00e2\u0309m, Ph\u00fa L\u01b0\u01a1ng, Th\u00e1i Nguy\u00ean",
+        "Exclusive": [],
+        "Fee": [
+            35,
+            50,
+            75,
+            140,
+            200
+        ],
+        "Highway": [],
+        "HighwayFee": {},
+        "ID": 145,
+        "KM": "KM72+930",
+        "Lat": 21.644143,
+        "Lng": 105.786348,
+        "MonthlyFee": [
+            1050,
+            1500,
+            2250,
+            4200,
+            6000
+        ],
+        "Name": "Tr\u1ea1m thu ph\u00ed KM72+930",
+        "Province": "Th\u00e1i Nguy\u00ean",
+        "QuarterlyFee": [
+            2835,
+            4050,
+            6075,
+            11340,
+            16200
+        ],
+        "Road": "CT TN-CM",
+        "Tolerance": 30.0
+    },
+    {
+        "Description": "S\u01a1n C\u00e2\u0309m, Ph\u00fa L\u01b0\u01a1ng, Th\u00e1i Nguy\u00ean",
+        "Exclusive": [],
+        "Fee": [
+            35,
+            50,
+            75,
+            140,
+            200
+        ],
+        "Highway": [],
+        "HighwayFee": {},
+        "ID": 146,
+        "KM": "KM78+080",
+        "Lat": 21.635868,
+        "Lng": 105.77374,
+        "MonthlyFee": [
+            1050,
+            1500,
+            2250,
+            4200,
+            6000
+        ],
+        "Name": "Tr\u1ea1m thu ph\u00ed KM78+080",
+        "Province": "Th\u00e1i Nguy\u00ean",
+        "QuarterlyFee": [
+            2835,
+            4050,
+            6075,
+            11340,
+            16200
+        ],
+        "Road": "QL3",
+        "Tolerance": 30.0
+    },
+    {
+        "Description": "T\u00e2n D\u00e2n, S\u00f3c S\u01a1n, H\u00e0 N\u1ed9i ",
+        "Exclusive": [],
+        "Fee": [],
+        "Highway": [
+            "CT HN-LC"
+        ],
+        "HighwayFee": {
+            "148": [
+                20,
+                30,
+                40,
+                50,
+                80
+            ],
+            "149": [
+                40,
+                50,
+                80,
+                90,
+                150
+            ],
+            "150": [
+                60,
+                90,
+                120,
+                150,
+                240
+            ],
+            "151": [
+                70,
+                110,
+                150,
+                180,
+                290
+            ],
+            "152": [
+                80,
+                120,
+                160,
+                200,
+                320
+            ],
+            "153": [
+                90,
+                140,
+                190,
+                240,
+                390
+            ],
+            "154": [
+                120,
+                180,
+                240,
+                290,
+                470
+            ],
+            "155": [],
+            "156": [
+                200,
+                320,
+                420,
+                530,
+                840
+            ],
+            "157": [
+                260,
+                390,
+                520,
+                650,
+                1040
+            ],
+            "158": [
+                290,
+                440,
+                590,
+                740,
+                1180
+            ],
+            "159": [
+                300,
+                460,
+                610,
+                760,
+                1220
+            ]
+        },
+        "ID": 147,
+        "KM": "KM0+08",
+        "Lat": 21.252709,
+        "Lng": 105.739587,
+        "MonthlyFee": [],
+        "Name": "Tr\u1ea1m thu ph\u00ed KM6",
+        "Province": "H\u00e0 N\u1ed9i",
+        "QuarterlyFee": [],
+        "Road": "CT05",
+        "Tolerance": 30.0
+    },
+    {
+        "Description": "H\u01b0\u01a1ng Canh, B\u00ecnh Xuy\u00ean, V\u0129nh Ph\u00fac ",
+        "Exclusive": [],
+        "Fee": [],
+        "Highway": [
+            "CT HN-LC"
+        ],
+        "HighwayFee": {
+            "147": [
+                20,
+                30,
+                40,
+                50,
+                80
+            ],
+            "149": [
+                10,
+                20,
+                30,
+                40,
+                60
+            ],
+            "150": [
+                40,
+                60,
+                80,
+                100,
+                150
+            ],
+            "151": [
+                50,
+                80,
+                100,
+                130,
+                210
+            ],
+            "152": [
+                60,
+                90,
+                120,
+                150,
+                240
+            ],
+            "153": [
+                80,
+                120,
+                160,
+                190,
+                310
+            ],
+            "154": [
+                100,
+                140,
+                190,
+                240,
+                390
+            ],
+            "155": [],
+            "156": [
+                190,
+                300,
+                390,
+                490,
+                780
+            ],
+            "157": [
+                240,
+                370,
+                490,
+                610,
+                980
+            ],
+            "158": [
+                280,
+                420,
+                560,
+                700,
+                1120
+            ],
+            "159": [
+                290,
+                440,
+                580,
+                730,
+                1160
+            ]
+        },
+        "ID": 148,
+        "KM": "KM14+590",
+        "Lat": 21.279397,
+        "Lng": 105.669261,
+        "MonthlyFee": [],
+        "Name": "Tr\u1ea1m thu ph\u00ed B\u00ecnh Xuy\u00ean IC3",
+        "Province": "V\u0129nh Ph\u00fac ",
+        "QuarterlyFee": [],
+        "Road": "CT05",
+        "Tolerance": 30.0
+    },
+    {
+        "Description": "Kim Long, Tam D\u01b0\u01a1ng, V\u0129nh Ph\u00fac",
+        "Exclusive": [],
+        "Fee": [],
+        "Highway": [
+            "CT HN-LC"
+        ],
+        "HighwayFee": {
+            "147": [
+                40,
+                50,
+                80,
+                90,
+                150
+            ],
+            "148": [
+                10,
+                20,
+                30,
+                40,
+                60
+            ],
+            "150": [
+                20,
+                30,
+                40,
+                60,
+                90
+            ],
+            "151": [
+                40,
+                50,
+                70,
+                90,
+                140
+            ],
+            "152": [
+                40,
+                70,
+                90,
+                110,
+                180
+            ],
+            "153": [
+                60,
+                90,
+                120,
+                150,
+                240
+            ],
+            "154": [
+                80,
+                120,
+                160,
+                200,
+                320
+            ],
+            "155": [],
+            "156": [
+                180,
+                280,
+                370,
+                460,
+                740
+            ],
+            "157": [
+                240,
+                350,
+                470,
+                590,
+                940
+            ],
+            "158": [
+                270,
+                400,
+                540,
+                670,
+                1080
+            ],
+            "159": [
+                280,
+                420,
+                560,
+                700,
+                1120
+            ]
+        },
+        "ID": 149,
+        "KM": "KM25+540",
+        "Lat": 21.357328,
+        "Lng": 105.606142,
+        "MonthlyFee": [],
+        "Name": "Tr\u1ea1m thu ph\u00ed IC4",
+        "Province": "V\u0129nh Ph\u00fac ",
+        "QuarterlyFee": [],
+        "Road": "CT05",
+        "Tolerance": 30.0
+    },
+    {
+        "Description": "L\u1eadp Th\u1ea1ch, V\u0129nh Ph\u00fac",
+        "Exclusive": [],
+        "Fee": [],
+        "Highway": [
+            "CT HN-LC"
+        ],
+        "HighwayFee": {
+            "147": [
+                60,
+                90,
+                120,
+                150,
+                240
+            ],
+            "148": [
+                40,
+                60,
+                80,
+                100,
+                150
+            ],
+            "149": [
+                20,
+                30,
+                40,
+                60,
+                90
+            ],
+            "151": [
+                10,
+                20,
+                30,
+                30,
+                50
+            ],
+            "152": [
+                20,
+                30,
+                40,
+                60,
+                90
+            ],
+            "153": [
+                40,
+                60,
+                80,
+                100,
+                160
+            ],
+            "154": [
+                60,
+                90,
+                120,
+                150,
+                230
+            ],
+            "155": [],
+            "156": [
+                170,
+                260,
+                340,
+                430,
+                680
+            ],
+            "157": [
+                220,
+                330,
+                440,
+                550,
+                880
+            ],
+            "158": [
+                260,
+                380,
+                510,
+                640,
+                1020
+            ],
+            "159": [
+                270,
+                400,
+                530,
+                660,
+                1060
+            ]
+        },
+        "ID": 150,
+        "KM": "KM39+960",
+        "Lat": 21.355097,
+        "Lng": 105.463936,
+        "MonthlyFee": [],
+        "Name": "Tr\u1ea1m thu ph\u00ed V\u0103n Qu\u00e1n IC6",
+        "Province": "V\u0129nh Ph\u00fac ",
+        "QuarterlyFee": [],
+        "Road": "CT05",
+        "Tolerance": 30.0
+    },
+    {
+        "Description": "Ph\u01b0\u1ee3ng L\u00e2u, Vi\u1ec7t Tr\u00ec, Ph\u00fa Th\u1ecd",
+        "Exclusive": [],
+        "Fee": [],
+        "Highway": [
+            "CT HN-LC"
+        ],
+        "HighwayFee": {
+            "147": [
+                70,
+                110,
+                150,
+                180,
+                290
+            ],
+            "148": [
+                50,
+                80,
+                100,
+                130,
+                210
+            ],
+            "149": [
+                40,
+                50,
+                70,
+                90,
+                140
+            ],
+            "150": [
+                10,
+                20,
+                30,
+                30,
+                50
+            ],
+            "152": [
+                10,
+                10,
+                20,
+                20,
+                30
+            ],
+            "153": [
+                30,
+                40,
+                50,
+                70,
+                100
+            ],
+            "154": [
+                50,
+                70,
+                90,
+                110,
+                180
+            ],
+            "155": [
+                100,
+                150,
+                200,
+                250,
+                400
+            ],
+            "156": [
+                140,
+                210,
+                280,
+                340,
+                550
+            ],
+            "157": [
+                190,
+                280,
+                370,
+                470,
+                750
+            ],
+            "158": [
+                220,
+                330,
+                440,
+                550,
+                890
+            ],
+            "159": [
+                230,
+                350,
+                470,
+                580,
+                930
+            ]
+        },
+        "ID": 151,
+        "KM": "KM48+890",
+        "Lat": 21.362748,
+        "Lng": 105.380236,
+        "MonthlyFee": [],
+        "Name": "Tr\u1ea1m thu ph\u00ed IC7",
+        "Province": "Ph\u00fa Th\u1ecd",
+        "QuarterlyFee": [],
+        "Road": "CT05",
+        "Tolerance": 30.0
+    },
+    {
+        "Description": "Ph\u00f9 Ninh, Ph\u00fa Th\u1ecd",
+        "Exclusive": [],
+        "Fee": [],
+        "Highway": [
+            "CT HN-LC"
+        ],
+        "HighwayFee": {
+            "147": [
+                80,
+                120,
+                160,
+                200,
+                320
+            ],
+            "148": [
+                60,
+                90,
+                120,
+                150,
+                240
+            ],
+            "149": [
+                40,
+                70,
+                90,
+                110,
+                180
+            ],
+            "150": [
+                20,
+                30,
+                40,
+                60,
+                90
+            ],
+            "151": [
+                10,
+                10,
+                20,
+                20,
+                30
+            ],
+            "153": [
+                20,
+                30,
+                30,
+                40,
+                70
+            ],
+            "154": [
+                40,
+                50,
+                80,
+                90,
+                150
+            ],
+            "155": [],
+            "156": [
+                160,
+                230,
+                310,
+                390,
+                630
+            ],
+            "157": [
+                200,
+                310,
+                410,
+                510,
+                820
+            ],
+            "158": [
+                240,
+                360,
+                480,
+                600,
+                960
+            ],
+            "159": [
+                250,
+                380,
+                500,
+                630,
+                1000
+            ]
+        },
+        "ID": 152,
+        "KM": "KM54+640",
+        "Lat": 21.390515,
+        "Lng": 105.329984,
+        "MonthlyFee": [],
+        "Name": "Tr\u1ea1m thu ph\u00ed Ph\u00f9 Ninh IC8",
+        "Province": "Ph\u00fa Th\u1ecd",
+        "QuarterlyFee": [],
+        "Road": "CT05",
+        "Tolerance": 30.0
+    },
+    {
+        "Description": "H\u00e0 L\u1ed9c, Ph\u00fa Th\u1ecd",
+        "Exclusive": [],
+        "Fee": [],
+        "Highway": [
+            "CT HN-LC"
+        ],
+        "HighwayFee": {
+            "147": [
+                90,
+                140,
+                190,
+                240,
+                390
+            ],
+            "148": [
+                80,
+                120,
+                160,
+                190,
+                310
+            ],
+            "149": [
+                60,
+                90,
+                120,
+                150,
+                240
+            ],
+            "150": [
+                40,
+                60,
+                80,
+                100,
+                160
+            ],
+            "151": [
+                30,
+                40,
+                50,
+                70,
+                100
+            ],
+            "152": [
+                20,
+                30,
+                30,
+                40,
+                70
+            ],
+            "154": [
+                20,
+                30,
+                40,
+                50,
+                80
+            ],
+            "155": [
+                70,
+                110,
+                150,
+                180,
+                290
+            ],
+            "156": [
+                110,
+                170,
+                220,
+                280,
+                450
+            ],
+            "157": [
+                160,
+                240,
+                320,
+                400,
+                640
+            ],
+            "158": [
+                200,
+                290,
+                390,
+                490,
+                780
+            ],
+            "159": [
+                210,
+                310,
+                410,
+                520,
+                830
+            ]
+        },
+        "ID": 153,
+        "KM": "KM66+305.50",
+        "Lat": 21.42326,
+        "Lng": 105.230722,
+        "MonthlyFee": [],
+        "Name": "Tr\u1ea1m thu ph\u00ed H\u00e0 L\u1ed9c IC9",
+        "Province": "Ph\u00fa Th\u1ecd",
+        "QuarterlyFee": [],
+        "Road": "CT05",
+        "Tolerance": 30.0
+    },
+    {
+        "Description": "Sai Nga, C\u1ea9m Kh\u00ea, Ph\u00fa Th\u1ecd",
+        "Exclusive": [],
+        "Fee": [],
+        "Highway": [
+            "CT HN-LC"
+        ],
+        "HighwayFee": {
+            "147": [
+                120,
+                180,
+                240,
+                290,
+                470
+            ],
+            "148": [
+                100,
+                140,
+                190,
+                240,
+                390
+            ],
+            "149": [
+                80,
+                120,
+                160,
+                200,
+                320
+            ],
+            "150": [
+                60,
+                90,
+                120,
+                150,
+                230
+            ],
+            "151": [
+                50,
+                70,
+                90,
+                110,
+                180
+            ],
+            "152": [
+                40,
+                50,
+                80,
+                90,
+                150
+            ],
+            "153": [
+                20,
+                30,
+                40,
+                50,
+                80
+            ],
+            "155": [],
+            "156": [
+                130,
+                200,
+                260,
+                310,
+                530
+            ],
+            "157": [
+                180,
+                270,
+                360,
+                450,
+                720
+            ],
+            "158": [
+                210,
+                320,
+                430,
+                540,
+                860
+            ],
+            "159": [
+                230,
+                340,
+                450,
+                570,
+                900
+            ]
+        },
+        "ID": 154,
+        "KM": "KM79+060",
+        "Lat": 21.438845,
+        "Lng": 105.123464,
+        "MonthlyFee": [],
+        "Name": "Tr\u1ea1m thu ph\u00ed Sai Nga IC10",
+        "Province": "Ph\u00fa Th\u1ecd",
+        "QuarterlyFee": [],
+        "Road": "CT05",
+        "Tolerance": 30.0
+    },
+    {
+        "Description": "Minh Qu\u00e2n, Tr\u1ea5n Y\u00ean, Y\u00ean B\u00e1i",
+        "Exclusive": [],
+        "Fee": [],
+        "Highway": [
+            "CT HN-LC"
+        ],
+        "HighwayFee": {
+            "147": [],
+            "148": [],
+            "149": [],
+            "150": [],
+            "151": [
+                100,
+                150,
+                200,
+                250,
+                400
+            ],
+            "152": [],
+            "153": [
+                70,
+                110,
+                150,
+                180,
+                290
+            ],
+            "154": [],
+            "156": [],
+            "157": [],
+            "158": [],
+            "159": []
+        },
+        "ID": 155,
+        "KM": "KM114+800",
+        "Lat": 21.64768,
+        "Lng": 104.892188,
+        "MonthlyFee": [],
+        "Name": "Tr\u1ea1m thu ph\u00ed IC12",
+        "Province": "Y\u00ean B\u00e1i",
+        "QuarterlyFee": [],
+        "Road": "CT05",
+        "Tolerance": 30.0
+    },
+    {
+        "Description": "An Th\u1ecbnh, V\u0103n Y\u00ean, Y\u00ean B\u00e1i ",
+        "Exclusive": [],
+        "Fee": [],
+        "Highway": [
+            "CT HN-LC"
+        ],
+        "HighwayFee": {
+            "147": [
+                200,
+                320,
+                420,
+                530,
+                840
+            ],
+            "148": [
+                190,
+                300,
+                390,
+                490,
+                780
+            ],
+            "149": [
+                180,
+                280,
+                370,
+                460,
+                740
+            ],
+            "150": [
+                170,
+                260,
+                340,
+                430,
+                680
+            ],
+            "151": [
+                140,
+                210,
+                280,
+                340,
+                550
+            ],
+            "152": [
+                160,
+                230,
+                310,
+                390,
+                630
+            ],
+            "153": [
+                110,
+                170,
+                220,
+                280,
+                450
+            ],
+            "154": [
+                130,
+                200,
+                260,
+                310,
+                530
+            ],
+            "155": [],
+            "157": [
+                50,
+                70,
+                100,
+                120,
+                200
+            ],
+            "158": [
+                80,
+                120,
+                170,
+                210,
+                340
+            ],
+            "159": [
+                100,
+                140,
+                190,
+                240,
+                380
+            ]
+        },
+        "ID": 156,
+        "KM": "KM149+705",
+        "Lat": 21.878206,
+        "Lng": 104.675455,
+        "MonthlyFee": [],
+        "Name": "Tr\u1ea1m thu ph\u00ed IC14",
+        "Province": "Y\u00ean B\u00e1i",
+        "QuarterlyFee": [],
+        "Road": "CT05",
+        "Tolerance": 30.0
+    },
+    {
+        "Description": "V\u0103n B\u00e0n, L\u00e0o Cai ",
+        "Exclusive": [],
+        "Fee": [],
+        "Highway": [
+            "CT HN-LC"
+        ],
+        "HighwayFee": {
+            "147": [
+                260,
+                390,
+                520,
+                650,
+                1040
+            ],
+            "148": [
+                240,
+                370,
+                490,
+                610,
+                980
+            ],
+            "149": [
+                240,
+                350,
+                470,
+                590,
+                940
+            ],
+            "150": [
+                220,
+                330,
+                440,
+                550,
+                880
+            ],
+            "151": [
+                190,
+                280,
+                370,
+                470,
+                750
+            ],
+            "152": [
+                200,
+                310,
+                410,
+                510,
+                820
+            ],
+            "153": [
+                160,
+                240,
+                320,
+                400,
+                640
+            ],
+            "154": [
+                180,
+                270,
+                360,
+                450,
+                720
+            ],
+            "155": [],
+            "156": [
+                50,
+                70,
+                100,
+                120,
+                200
+            ],
+            "158": [
+                30,
+                50,
+                70,
+                90,
+                140
+            ],
+            "159": [
+                40,
+                70,
+                90,
+                110,
+                180
+            ]
+        },
+        "ID": 157,
+        "KM": "KM198+650",
+        "Lat": 22.152283,
+        "Lng": 104.3439,
+        "MonthlyFee": [],
+        "Name": "Tr\u1ea1m thu ph\u00ed IC16",
+        "Province": "L\u00e0o Cai ",
+        "QuarterlyFee": [],
+        "Road": "CT05",
+        "Tolerance": 30.0
+    },
+    {
+        "Description": "B\u1ea3o Th\u1eafng, L\u00e0o Cai ",
+        "Exclusive": [],
+        "Fee": [],
+        "Highway": [
+            "CT HN-LC"
+        ],
+        "HighwayFee": {
+            "147": [
+                290,
+                440,
+                590,
+                740,
+                1180
+            ],
+            "148": [
+                280,
+                420,
+                560,
+                700,
+                1120
+            ],
+            "149": [
+                270,
+                400,
+                540,
+                670,
+                1080
+            ],
+            "150": [
+                260,
+                380,
+                510,
+                640,
+                1020
+            ],
+            "151": [
+                220,
+                330,
+                440,
+                550,
+                890
+            ],
+            "152": [
+                240,
+                360,
+                480,
+                600,
+                960
+            ],
+            "153": [
+                200,
+                290,
+                390,
+                490,
+                780
+            ],
+            "154": [
+                210,
+                320,
+                430,
+                540,
+                860
+            ],
+            "155": [],
+            "156": [
+                80,
+                120,
+                170,
+                210,
+                340
+            ],
+            "157": [
+                30,
+                50,
+                70,
+                90,
+                140
+            ],
+            "159": [
+                10,
+                15,
+                20,
+                30,
+                50
+            ]
+        },
+        "ID": 158,
+        "KM": "KM233+540",
+        "Lat": 22.343438,
+        "Lng": 104.106089,
+        "MonthlyFee": [],
+        "Name": "Tr\u1ea1m thu ph\u00ed Xu\u00e2n Giao (IC17)",
+        "Province": "L\u00e0o Cai ",
+        "QuarterlyFee": [],
+        "Road": "CT05",
+        "Tolerance": 30.0
+    },
+    {
+        "Description": "B\u1ea3o Th\u1eafng, L\u00e0o Cai ",
+        "Exclusive": [],
+        "Fee": [],
+        "Highway": [
+            "CT HN-LC"
+        ],
+        "HighwayFee": {
+            "147": [
+                300,
+                460,
+                610,
+                760,
+                1220
+            ],
+            "148": [
+                290,
+                440,
+                580,
+                730,
+                1160
+            ],
+            "149": [
+                280,
+                420,
+                560,
+                700,
+                1120
+            ],
+            "150": [
+                270,
+                400,
+                530,
+                660,
+                1060
+            ],
+            "151": [
+                230,
+                350,
+                470,
+                580,
+                930
+            ],
+            "152": [
+                250,
+                380,
+                500,
+                630,
+                1000
+            ],
+            "153": [
+                210,
+                310,
+                410,
+                520,
+                830
+            ],
+            "154": [
+                230,
+                340,
+                450,
+                570,
+                900
+            ],
+            "155": [],
+            "156": [
+                100,
+                140,
+                190,
+                240,
+                380
+            ],
+            "157": [
+                40,
+                70,
+                90,
+                110,
+                180
+            ],
+            "158": [
+                10,
+                15,
+                20,
+                30,
+                50
+            ]
+        },
+        "ID": 159,
+        "KM": "KM244+570",
+        "Lat": 22.362559,
+        "Lng": 104.083532,
+        "MonthlyFee": [],
+        "Name": "Tr\u1ea1m thu ph\u00ed L\u00e0o Cai KM237 (IC18)",
+        "Province": "L\u00e0o Cai ",
+        "QuarterlyFee": [],
+        "Road": "CT05",
+        "Tolerance": 30.0
+    },
+    {
+        "Description": "Nam H\u1ea3i, H\u1ea3i An, H\u1ea3i Ph\u00f2ng ",
+        "Exclusive": [],
+        "Fee": [],
+        "Highway": [
+            "CT HN-HP"
+        ],
+        "HighwayFee": {
+            "75": [
+                210,
+                280,
+                350,
+                560,
+                840
+            ],
+            "76": [
+                170,
+                220,
+                280,
+                450,
+                670
+            ],
+            "77": [
+                110,
+                150,
+                180,
+                300,
+                450
+            ],
+            "78": [
+                60,
+                80,
+                100,
+                170,
+                250
+            ],
+            "79": [
+                20,
+                25,
+                30,
+                50,
+                80
+            ]
+        },
+        "ID": 161,
+        "KM": "",
+        "Lat": 20.831699,
+        "Lng": 106.750474,
+        "MonthlyFee": [],
+        "Name": "Tr\u1ea1m thu ph\u00ed \u0110\u00ecnh V\u0169 (QL5B)",
+        "Province": "H\u1ea3i Ph\u00f2ng",
+        "QuarterlyFee": [],
+        "Road": "QL5B",
+        "Tolerance": 30.0
+    },
+    {
+        "Description": "\u0110\u1ea1o \u0110\u1ee9c, B\u00ecnh Xuy\u00ean, V\u0129nh Ph\u00fac ",
+        "Exclusive": [
+            166,
+            165,
+            25,
+            101
+        ],
+        "Fee": [
+            15,
+            23,
+            33,
+            60,
+            120
+        ],
+        "Highway": [],
+        "HighwayFee": {},
+        "ID": 164,
+        "KM": "",
+        "Lat": 21.238094,
+        "Lng": 105.681009,
+        "MonthlyFee": [
+            450,
+            690,
+            990,
+            1800,
+            3600
+        ],
+        "Name": "Tr\u1ea1m thu ph\u00ed Tr\u1ee5c M\u00ea Linh",
+        "Province": "V\u0129nh Ph\u00fac ",
+        "QuarterlyFee": [
+            1200,
+            1800,
+            2700,
+            4800,
+            9750
+        ],
+        "Road": "QL2A",
+        "Tolerance": 30.0
+    },
+    {
+        "Description": "Ph\u00fac Th\u1eafng, Tx. Ph\u00fac Y\u00ean, V\u0129nh Ph\u00fac ",
+        "Exclusive": [
+            166,
+            25,
+            164,
+            101
+        ],
+        "Fee": [
+            15,
+            23,
+            33,
+            60,
+            120
+        ],
+        "Highway": [],
+        "HighwayFee": {},
+        "ID": 165,
+        "KM": "",
+        "Lat": 21.239118,
+        "Lng": 105.725798,
+        "MonthlyFee": [
+            450,
+            690,
+            990,
+            1800,
+            3600
+        ],
+        "Name": "Tr\u1ea1m thu ph\u00ed Xu\u00e2n H\u00f2a (v\u00e0o QL2A)",
+        "Province": "V\u0129nh Ph\u00fac ",
+        "QuarterlyFee": [
+            1200,
+            1800,
+            2700,
+            4800,
+            9750
+        ],
+        "Road": "QL2A",
+        "Tolerance": 10.0
+    },
+    {
+        "Description": "H\u01b0\u01a1ng Canh, B\u00ecnh Xuy\u00ean, V\u0129nh Ph\u00fac ",
+        "Exclusive": [
+            25,
+            165,
+            164,
+            101
+        ],
+        "Fee": [
+            15,
+            23,
+            33,
+            60,
+            120
+        ],
+        "Highway": [],
+        "HighwayFee": {},
+        "ID": 166,
+        "KM": "",
+        "Lat": 21.262293,
+        "Lng": 105.654175,
+        "MonthlyFee": [
+            450,
+            690,
+            990,
+            1800,
+            3600
+        ],
+        "Name": "Tr\u1ea1m thu ph\u00ed TL305 (v\u00e0o QL2A)",
+        "Province": "V\u0129nh Ph\u00fac ",
+        "QuarterlyFee": [
+            1200,
+            1800,
+            2700,
+            4800,
+            9750
+        ],
+        "Road": "QL2A",
+        "Tolerance": 10.0
+    }
+]
